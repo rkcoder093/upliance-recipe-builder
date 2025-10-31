@@ -1,0 +1,4617 @@
+[
+  {
+    "id": "36ff15d4-1904-430c-b9c0-f868dba07598",
+    "title": "Hakka Noodles",
+    "difficulty": "Easy",
+    "ingredients": [
+      {
+        "id": "624e3458-f7c0-440e-855d-fc49ce02e8c3",
+        "name": "Rice",
+        "quantity": 91,
+        "unit": "g"
+      },
+      {
+        "id": "dca14e5e-d458-4e2c-8a87-66804dfb139b",
+        "name": "Chicken",
+        "quantity": 165,
+        "unit": "g"
+      },
+      {
+        "id": "70a87ddd-c939-43a2-8ce2-e7c3c6130d7a",
+        "name": "Tomato",
+        "quantity": 182,
+        "unit": "g"
+      },
+      {
+        "id": "723da25c-454a-424d-a71e-ad3ba02cf23a",
+        "name": "Egg",
+        "quantity": 185,
+        "unit": "pcs"
+      },
+      {
+        "id": "8316fbc3-522c-4a27-8611-0381e7e31736",
+        "name": "Salt",
+        "quantity": 46,
+        "unit": "g"
+      },
+      {
+        "id": "82a69e54-9dc5-4688-920c-f570d20276fb",
+        "name": "Garlic",
+        "quantity": 124,
+        "unit": "g"
+      }
+    ],
+    "steps": [
+      {
+        "id": "7f8fea38-d781-44bf-b6a7-9759f010f6d6",
+        "description": "Prepare ingredients step 1 for hakka noodles.",
+        "type": "instruction",
+        "durationMinutes": 2,
+        "ingredientIds": [
+          "dca14e5e-d458-4e2c-8a87-66804dfb139b",
+          "624e3458-f7c0-440e-855d-fc49ce02e8c3",
+          "8316fbc3-522c-4a27-8611-0381e7e31736"
+        ]
+      },
+      {
+        "id": "2e30e139-5910-40f1-9731-0e10613669d7",
+        "description": "Cook step 2 for hakka noodles.",
+        "type": "cooking",
+        "durationMinutes": 9,
+        "cookingSettings": {
+          "temperature": 175,
+          "speed": 1
+        }
+      },
+      {
+        "id": "63307fad-3df4-432e-8689-3b5abd54d998",
+        "description": "Prepare ingredients step 3 for hakka noodles.",
+        "type": "instruction",
+        "durationMinutes": 4,
+        "ingredientIds": [
+          "82a69e54-9dc5-4688-920c-f570d20276fb",
+          "70a87ddd-c939-43a2-8ce2-e7c3c6130d7a",
+          "dca14e5e-d458-4e2c-8a87-66804dfb139b"
+        ]
+      },
+      {
+        "id": "3690ab58-6e03-4815-9faa-f4f2fd99921b",
+        "description": "Cook step 4 for hakka noodles.",
+        "type": "cooking",
+        "durationMinutes": 10,
+        "cookingSettings": {
+          "temperature": 124,
+          "speed": 4
+        }
+      },
+      {
+        "id": "29d9774a-74c5-4965-a746-28c29bb65233",
+        "description": "Prepare ingredients step 5 for hakka noodles.",
+        "type": "instruction",
+        "durationMinutes": 6,
+        "ingredientIds": [
+          "8316fbc3-522c-4a27-8611-0381e7e31736",
+          "82a69e54-9dc5-4688-920c-f570d20276fb"
+        ]
+      }
+    ],
+    "isFavorite": true,
+    "createdAt": "2025-10-30T11:53:26.485157",
+    "updatedAt": "2025-10-30T11:53:26.485189"
+  },
+  {
+    "id": "eee393d9-de4a-4e03-9ad7-ef69b243a74a",
+    "title": "Momos",
+    "difficulty": "Hard",
+    "ingredients": [
+      {
+        "id": "1e65b45a-ea40-45db-8e80-730b78bbc95a",
+        "name": "Ginger",
+        "quantity": 106,
+        "unit": "g"
+      },
+      {
+        "id": "fb0b23e8-f173-4fb9-b837-7f30f32cff69",
+        "name": "Milk",
+        "quantity": 88,
+        "unit": "ml"
+      },
+      {
+        "id": "fc0b760b-0159-48eb-873c-5e89b6820878",
+        "name": "Spices",
+        "quantity": 33,
+        "unit": "g"
+      },
+      {
+        "id": "f6c305b8-a72b-41be-90db-6c32e16bc930",
+        "name": "Butter",
+        "quantity": 11,
+        "unit": "g"
+      },
+      {
+        "id": "d4159de0-cce8-45af-a575-2b6c96892f4e",
+        "name": "Flour",
+        "quantity": 103,
+        "unit": "g"
+      },
+      {
+        "id": "c75545da-45f5-43c4-b275-69aa2b81f113",
+        "name": "Garlic",
+        "quantity": 173,
+        "unit": "g"
+      },
+      {
+        "id": "85cc82b7-e866-47a6-a231-59c5705a761f",
+        "name": "Oil",
+        "quantity": 81,
+        "unit": "ml"
+      },
+      {
+        "id": "d5bbd66a-b3be-4873-8bb7-c3819547dcab",
+        "name": "Pepper",
+        "quantity": 196,
+        "unit": "g"
+      }
+    ],
+    "steps": [
+      {
+        "id": "31133a31-1bcb-4904-b11e-1de0e686cf7e",
+        "description": "Prepare ingredients step 1 for momos.",
+        "type": "instruction",
+        "durationMinutes": 5,
+        "ingredientIds": [
+          "d5bbd66a-b3be-4873-8bb7-c3819547dcab",
+          "f6c305b8-a72b-41be-90db-6c32e16bc930"
+        ]
+      },
+      {
+        "id": "93a6827c-2ff1-4c09-baed-c3b8413d0aa3",
+        "description": "Cook step 2 for momos.",
+        "type": "cooking",
+        "durationMinutes": 7,
+        "cookingSettings": {
+          "temperature": 108,
+          "speed": 3
+        }
+      },
+      {
+        "id": "f79aab51-a747-423c-bfe4-f85b2891c230",
+        "description": "Prepare ingredients step 3 for momos.",
+        "type": "instruction",
+        "durationMinutes": 6,
+        "ingredientIds": [
+          "c75545da-45f5-43c4-b275-69aa2b81f113",
+          "c75545da-45f5-43c4-b275-69aa2b81f113"
+        ]
+      },
+      {
+        "id": "e0c21e8e-9af3-43ab-829c-437f25ac3167",
+        "description": "Cook step 4 for momos.",
+        "type": "cooking",
+        "durationMinutes": 5,
+        "cookingSettings": {
+          "temperature": 139,
+          "speed": 5
+        }
+      }
+    ],
+    "isFavorite": false,
+    "createdAt": "2025-10-30T11:53:26.485329",
+    "updatedAt": "2025-10-30T11:53:26.485332"
+  },
+  {
+    "id": "ddae8964-a782-437c-b5f5-6a0659704320",
+    "title": "Egg Bhurji",
+    "difficulty": "Easy",
+    "ingredients": [
+      {
+        "id": "f6bd5afb-5ad7-457f-8c87-3d6e682ee825",
+        "name": "Salt",
+        "quantity": 49,
+        "unit": "g"
+      },
+      {
+        "id": "bc803f57-3db1-4093-8129-67f2713284af",
+        "name": "Garlic",
+        "quantity": 133,
+        "unit": "g"
+      },
+      {
+        "id": "f3db70a6-b959-4c3b-8fea-c6e2d495c9ed",
+        "name": "Egg",
+        "quantity": 200,
+        "unit": "pcs"
+      },
+      {
+        "id": "fbc7fc9f-9571-4a89-98fe-0160100ff8c5",
+        "name": "Chili",
+        "quantity": 68,
+        "unit": "pcs"
+      },
+      {
+        "id": "80eabc88-1101-4d25-b100-f89447b61e0d",
+        "name": "Pepper",
+        "quantity": 144,
+        "unit": "g"
+      },
+      {
+        "id": "c7beacae-797f-4f42-83b6-6940eb568c79",
+        "name": "Chicken",
+        "quantity": 18,
+        "unit": "g"
+      },
+      {
+        "id": "1090df29-c068-48df-8f2e-8be21fa9615b",
+        "name": "Flour",
+        "quantity": 141,
+        "unit": "g"
+      },
+      {
+        "id": "37e4ef40-0cf5-459c-ab9d-2f3b3aaa39da",
+        "name": "Butter",
+        "quantity": 199,
+        "unit": "g"
+      }
+    ],
+    "steps": [
+      {
+        "id": "746963fe-f496-43dd-9f3f-365e610b22f9",
+        "description": "Prepare ingredients step 1 for egg bhurji.",
+        "type": "instruction",
+        "durationMinutes": 4,
+        "ingredientIds": [
+          "80eabc88-1101-4d25-b100-f89447b61e0d",
+          "fbc7fc9f-9571-4a89-98fe-0160100ff8c5"
+        ]
+      },
+      {
+        "id": "3dbb21bd-90d9-461e-9e69-f37f42382e5a",
+        "description": "Cook step 2 for egg bhurji.",
+        "type": "cooking",
+        "durationMinutes": 3,
+        "cookingSettings": {
+          "temperature": 145,
+          "speed": 5
+        }
+      },
+      {
+        "id": "119a4672-a462-45fc-bd1b-5a8f09b4f11c",
+        "description": "Prepare ingredients step 3 for egg bhurji.",
+        "type": "instruction",
+        "durationMinutes": 2,
+        "ingredientIds": [
+          "f6bd5afb-5ad7-457f-8c87-3d6e682ee825"
+        ]
+      },
+      {
+        "id": "77e7983c-a5aa-4458-b38b-cf494f016d70",
+        "description": "Cook step 4 for egg bhurji.",
+        "type": "cooking",
+        "durationMinutes": 3,
+        "cookingSettings": {
+          "temperature": 155,
+          "speed": 1
+        }
+      },
+      {
+        "id": "ef57c3c8-b7c9-46c8-8912-205d448303c3",
+        "description": "Prepare ingredients step 5 for egg bhurji.",
+        "type": "instruction",
+        "durationMinutes": 2,
+        "ingredientIds": [
+          "f3db70a6-b959-4c3b-8fea-c6e2d495c9ed",
+          "bc803f57-3db1-4093-8129-67f2713284af"
+        ]
+      }
+    ],
+    "isFavorite": false,
+    "createdAt": "2025-10-30T11:53:26.485435",
+    "updatedAt": "2025-10-30T11:53:26.485438"
+  },
+  {
+    "id": "45d45ead-6061-415a-b90e-2d8cb30147b8",
+    "title": "Fried Chicken",
+    "difficulty": "Easy",
+    "ingredients": [
+      {
+        "id": "c6861997-c38a-4eb1-b81d-68d29c680fc1",
+        "name": "Vegetables",
+        "quantity": 127,
+        "unit": "g"
+      },
+      {
+        "id": "61671f04-b33f-4835-930e-973d066e76a1",
+        "name": "Coriander",
+        "quantity": 51,
+        "unit": "g"
+      },
+      {
+        "id": "d1cc621c-b710-4207-9cf6-47ba170c61f9",
+        "name": "Milk",
+        "quantity": 23,
+        "unit": "ml"
+      },
+      {
+        "id": "b15339dc-0df9-490f-9237-cc453c141034",
+        "name": "Paneer",
+        "quantity": 85,
+        "unit": "g"
+      },
+      {
+        "id": "b3f2db64-23f3-4fa3-ac28-ed351e434d5c",
+        "name": "Oil",
+        "quantity": 85,
+        "unit": "ml"
+      },
+      {
+        "id": "9ac0e69b-a1df-4a12-9cf8-230a127a0743",
+        "name": "Butter",
+        "quantity": 107,
+        "unit": "g"
+      },
+      {
+        "id": "cd0278b0-a531-4036-98aa-41e82c59727d",
+        "name": "Chili",
+        "quantity": 22,
+        "unit": "pcs"
+      }
+    ],
+    "steps": [
+      {
+        "id": "ccfdad4e-a548-4488-9f1e-5d65268ed945",
+        "description": "Prepare ingredients step 1 for fried chicken.",
+        "type": "instruction",
+        "durationMinutes": 6,
+        "ingredientIds": [
+          "cd0278b0-a531-4036-98aa-41e82c59727d",
+          "9ac0e69b-a1df-4a12-9cf8-230a127a0743",
+          "b3f2db64-23f3-4fa3-ac28-ed351e434d5c"
+        ]
+      },
+      {
+        "id": "de832b4f-d983-4a16-96c1-f0e3e428a751",
+        "description": "Cook step 2 for fried chicken.",
+        "type": "cooking",
+        "durationMinutes": 9,
+        "cookingSettings": {
+          "temperature": 178,
+          "speed": 1
+        }
+      },
+      {
+        "id": "53a127e1-6636-4409-b21b-9b324d61e88e",
+        "description": "Prepare ingredients step 3 for fried chicken.",
+        "type": "instruction",
+        "durationMinutes": 4,
+        "ingredientIds": [
+          "9ac0e69b-a1df-4a12-9cf8-230a127a0743",
+          "61671f04-b33f-4835-930e-973d066e76a1",
+          "d1cc621c-b710-4207-9cf6-47ba170c61f9"
+        ]
+      }
+    ],
+    "isFavorite": true,
+    "createdAt": "2025-10-30T11:53:26.485507",
+    "updatedAt": "2025-10-30T11:53:26.485510"
+  },
+  {
+    "id": "deadf55b-a0c8-4890-bcf2-41d2036c56ff",
+    "title": "Chicken Biryani",
+    "difficulty": "Hard",
+    "ingredients": [
+      {
+        "id": "61d49e0f-53d0-4a3a-9a9f-0cc3b00d2dd5",
+        "name": "Paneer",
+        "quantity": 133,
+        "unit": "g"
+      },
+      {
+        "id": "eeadc675-1923-4ab9-a0e0-add5329c5cde",
+        "name": "Coriander",
+        "quantity": 145,
+        "unit": "g"
+      },
+      {
+        "id": "3de6fab0-ed7a-4e63-813a-e4254bee980e",
+        "name": "Pepper",
+        "quantity": 93,
+        "unit": "g"
+      },
+      {
+        "id": "a8e7d0c5-e9dd-4fe5-89e1-33f0d0d55099",
+        "name": "Vegetables",
+        "quantity": 126,
+        "unit": "g"
+      },
+      {
+        "id": "23ebf251-a03b-42af-8374-bd7ee13b3ae0",
+        "name": "Tomato",
+        "quantity": 112,
+        "unit": "g"
+      }
+    ],
+    "steps": [
+      {
+        "id": "c6068f03-a923-4532-98fb-09e1f44e7372",
+        "description": "Prepare ingredients step 1 for chicken biryani.",
+        "type": "instruction",
+        "durationMinutes": 6,
+        "ingredientIds": [
+          "eeadc675-1923-4ab9-a0e0-add5329c5cde",
+          "23ebf251-a03b-42af-8374-bd7ee13b3ae0"
+        ]
+      },
+      {
+        "id": "f627c7c1-f7fe-42eb-b434-d4d406071a89",
+        "description": "Cook step 2 for chicken biryani.",
+        "type": "cooking",
+        "durationMinutes": 10,
+        "cookingSettings": {
+          "temperature": 143,
+          "speed": 2
+        }
+      },
+      {
+        "id": "34b58cbf-c466-4855-8e88-7504a9af069e",
+        "description": "Prepare ingredients step 3 for chicken biryani.",
+        "type": "instruction",
+        "durationMinutes": 4,
+        "ingredientIds": [
+          "23ebf251-a03b-42af-8374-bd7ee13b3ae0",
+          "23ebf251-a03b-42af-8374-bd7ee13b3ae0"
+        ]
+      },
+      {
+        "id": "b4ad0682-7c3e-45ab-a6fc-2b18420c83bc",
+        "description": "Cook step 4 for chicken biryani.",
+        "type": "cooking",
+        "durationMinutes": 7,
+        "cookingSettings": {
+          "temperature": 110,
+          "speed": 4
+        }
+      }
+    ],
+    "isFavorite": true,
+    "createdAt": "2025-10-30T11:53:26.485576",
+    "updatedAt": "2025-10-30T11:53:26.485578"
+  },
+  {
+    "id": "7bdbb530-4a0d-4ded-8748-c88ca1a1759d",
+    "title": "Veg Fried Rice",
+    "difficulty": "Easy",
+    "ingredients": [
+      {
+        "id": "f75d2f67-f734-4beb-bdf4-58720f34d476",
+        "name": "Butter",
+        "quantity": 165,
+        "unit": "g"
+      },
+      {
+        "id": "1b8486a5-325f-4bc5-882c-82a793a37d73",
+        "name": "Ginger",
+        "quantity": 48,
+        "unit": "g"
+      },
+      {
+        "id": "c30e3a98-f6eb-4356-899b-4b474d882366",
+        "name": "Egg",
+        "quantity": 146,
+        "unit": "pcs"
+      },
+      {
+        "id": "fa27f6a2-7743-4c96-a9b3-0dec1249c44d",
+        "name": "Chicken",
+        "quantity": 71,
+        "unit": "g"
+      },
+      {
+        "id": "4bba8750-a172-415d-9955-c85cea5dd79f",
+        "name": "Flour",
+        "quantity": 67,
+        "unit": "g"
+      },
+      {
+        "id": "3e081681-e5c8-4fc8-ac52-3da3ee7ee1ab",
+        "name": "Onion",
+        "quantity": 184,
+        "unit": "g"
+      },
+      {
+        "id": "c71e5cfc-a144-45e6-9a11-de128d329ae7",
+        "name": "Pepper",
+        "quantity": 169,
+        "unit": "g"
+      }
+    ],
+    "steps": [
+      {
+        "id": "abf483dd-0751-4f76-b5d1-4c6e40ae1fa3",
+        "description": "Prepare ingredients step 1 for veg fried rice.",
+        "type": "instruction",
+        "durationMinutes": 3,
+        "ingredientIds": [
+          "c71e5cfc-a144-45e6-9a11-de128d329ae7",
+          "1b8486a5-325f-4bc5-882c-82a793a37d73",
+          "4bba8750-a172-415d-9955-c85cea5dd79f"
+        ]
+      },
+      {
+        "id": "3369ee28-aa82-4ca9-bb2c-543505310d01",
+        "description": "Cook step 2 for veg fried rice.",
+        "type": "cooking",
+        "durationMinutes": 10,
+        "cookingSettings": {
+          "temperature": 117,
+          "speed": 4
+        }
+      },
+      {
+        "id": "74c4ce37-baa6-477d-a834-a2e48ef65fd3",
+        "description": "Prepare ingredients step 3 for veg fried rice.",
+        "type": "instruction",
+        "durationMinutes": 6,
+        "ingredientIds": [
+          "c71e5cfc-a144-45e6-9a11-de128d329ae7"
+        ]
+      }
+    ],
+    "isFavorite": false,
+    "createdAt": "2025-10-30T11:53:26.485647",
+    "updatedAt": "2025-10-30T11:53:26.485650"
+  },
+  {
+    "id": "ce6dab7f-159b-4fe4-96fe-d5afb224b57d",
+    "title": "Fish Fry",
+    "difficulty": "Easy",
+    "ingredients": [
+      {
+        "id": "7229c926-c2d4-4114-b447-b7e0f1b108f9",
+        "name": "Salt",
+        "quantity": 141,
+        "unit": "g"
+      },
+      {
+        "id": "c2f93c71-fbc7-43d3-95f6-ff41a73adac3",
+        "name": "Chicken",
+        "quantity": 141,
+        "unit": "g"
+      },
+      {
+        "id": "dbf67d5a-53cc-4fa3-bd58-755c4799d0d9",
+        "name": "Pepper",
+        "quantity": 124,
+        "unit": "g"
+      },
+      {
+        "id": "717bae88-9e60-442d-8de7-89dcda04e2aa",
+        "name": "Ginger",
+        "quantity": 64,
+        "unit": "g"
+      },
+      {
+        "id": "6b0dae14-17d9-42f7-98eb-a183ddf3d5a3",
+        "name": "Tomato",
+        "quantity": 176,
+        "unit": "g"
+      },
+      {
+        "id": "1d38710d-1a1b-4be4-9a84-e8c0eb590af2",
+        "name": "Oil",
+        "quantity": 147,
+        "unit": "ml"
+      },
+      {
+        "id": "0449d05a-8b54-45f4-a999-86a8e104bac6",
+        "name": "Butter",
+        "quantity": 43,
+        "unit": "g"
+      },
+      {
+        "id": "2ef30fe9-c102-4756-ba6b-b66f782e63be",
+        "name": "Cheese",
+        "quantity": 108,
+        "unit": "g"
+      }
+    ],
+    "steps": [
+      {
+        "id": "7986ab18-c8a3-4cc6-acf5-a8c035027a4d",
+        "description": "Prepare ingredients step 1 for fish fry.",
+        "type": "instruction",
+        "durationMinutes": 4,
+        "ingredientIds": [
+          "6b0dae14-17d9-42f7-98eb-a183ddf3d5a3"
+        ]
+      },
+      {
+        "id": "57c31e39-9632-4cbd-9639-8c24a83d9b12",
+        "description": "Cook step 2 for fish fry.",
+        "type": "cooking",
+        "durationMinutes": 5,
+        "cookingSettings": {
+          "temperature": 151,
+          "speed": 5
+        }
+      },
+      {
+        "id": "28ee6ad1-ae8a-4018-8756-a4528eb73e56",
+        "description": "Prepare ingredients step 3 for fish fry.",
+        "type": "instruction",
+        "durationMinutes": 4,
+        "ingredientIds": [
+          "dbf67d5a-53cc-4fa3-bd58-755c4799d0d9",
+          "717bae88-9e60-442d-8de7-89dcda04e2aa",
+          "6b0dae14-17d9-42f7-98eb-a183ddf3d5a3"
+        ]
+      }
+    ],
+    "isFavorite": true,
+    "createdAt": "2025-10-30T11:53:26.485727",
+    "updatedAt": "2025-10-30T11:53:26.485729"
+  },
+  {
+    "id": "01d5fe4b-7f9a-4f68-bad8-95c12dfd7619",
+    "title": "Schezwan Rice",
+    "difficulty": "Medium",
+    "ingredients": [
+      {
+        "id": "291ccbb7-772f-4589-bc70-8c1e09a26391",
+        "name": "Chili",
+        "quantity": 14,
+        "unit": "pcs"
+      },
+      {
+        "id": "fdbe5c6b-7ba0-4192-91a6-e58bb0213ecc",
+        "name": "Oil",
+        "quantity": 32,
+        "unit": "ml"
+      },
+      {
+        "id": "6de2395a-24dd-443f-896e-413fa5dd5c2c",
+        "name": "Tomato",
+        "quantity": 182,
+        "unit": "g"
+      },
+      {
+        "id": "f1d45c26-a2fe-4a44-b0a9-b317a603b515",
+        "name": "Butter",
+        "quantity": 143,
+        "unit": "g"
+      },
+      {
+        "id": "aaa6ee13-88db-47ab-a530-1c5b37effefa",
+        "name": "Rice",
+        "quantity": 193,
+        "unit": "g"
+      },
+      {
+        "id": "3b0eba58-3461-4d1b-826f-736be81610ef",
+        "name": "Cheese",
+        "quantity": 77,
+        "unit": "g"
+      },
+      {
+        "id": "6d7d7f0a-67e7-426e-8450-ae1c46141bcd",
+        "name": "Garlic",
+        "quantity": 158,
+        "unit": "g"
+      },
+      {
+        "id": "44a2762c-e976-4574-814c-4839c623b3bb",
+        "name": "Milk",
+        "quantity": 167,
+        "unit": "ml"
+      }
+    ],
+    "steps": [
+      {
+        "id": "feec7072-bf1c-467b-a870-d00bcf9f4d14",
+        "description": "Prepare ingredients step 1 for schezwan rice.",
+        "type": "instruction",
+        "durationMinutes": 3,
+        "ingredientIds": [
+          "291ccbb7-772f-4589-bc70-8c1e09a26391",
+          "6de2395a-24dd-443f-896e-413fa5dd5c2c",
+          "f1d45c26-a2fe-4a44-b0a9-b317a603b515"
+        ]
+      },
+      {
+        "id": "3435ef05-a7a9-46d2-81dd-dc340013d238",
+        "description": "Cook step 2 for schezwan rice.",
+        "type": "cooking",
+        "durationMinutes": 9,
+        "cookingSettings": {
+          "temperature": 129,
+          "speed": 3
+        }
+      },
+      {
+        "id": "c8b0aa1f-943c-42ee-b07d-b1c1f9327fe0",
+        "description": "Prepare ingredients step 3 for schezwan rice.",
+        "type": "instruction",
+        "durationMinutes": 6,
+        "ingredientIds": [
+          "291ccbb7-772f-4589-bc70-8c1e09a26391",
+          "f1d45c26-a2fe-4a44-b0a9-b317a603b515",
+          "44a2762c-e976-4574-814c-4839c623b3bb"
+        ]
+      }
+    ],
+    "isFavorite": false,
+    "createdAt": "2025-10-30T11:53:26.485800",
+    "updatedAt": "2025-10-30T11:53:26.485802"
+  },
+  {
+    "id": "fe67729e-5062-4631-b24f-7c7998c3520c",
+    "title": "Khichdi",
+    "difficulty": "Hard",
+    "ingredients": [
+      {
+        "id": "4d944492-fe80-4b5e-88f7-ae7cd5d4a30a",
+        "name": "Paneer",
+        "quantity": 106,
+        "unit": "g"
+      },
+      {
+        "id": "0bf1d4d4-27a5-4bf1-842b-3cf48983586d",
+        "name": "Cheese",
+        "quantity": 43,
+        "unit": "g"
+      },
+      {
+        "id": "1aa5307c-3860-4bc8-9888-d96eaeb47299",
+        "name": "Salt",
+        "quantity": 161,
+        "unit": "g"
+      },
+      {
+        "id": "dcf53ea4-aaa2-4ded-b2da-8d8588b0dd56",
+        "name": "Rice",
+        "quantity": 39,
+        "unit": "g"
+      },
+      {
+        "id": "dfe6b5c6-cf22-4f2a-b93c-bb863eabc212",
+        "name": "Tomato",
+        "quantity": 140,
+        "unit": "g"
+      },
+      {
+        "id": "bdb32202-b84e-4cf5-af9a-64d7ea5d1fa8",
+        "name": "Onion",
+        "quantity": 153,
+        "unit": "g"
+      },
+      {
+        "id": "b07f6e34-5703-4202-b4e9-07a6b300e469",
+        "name": "Butter",
+        "quantity": 185,
+        "unit": "g"
+      }
+    ],
+    "steps": [
+      {
+        "id": "10224e06-2fa8-49e2-993b-f6f9680b47a8",
+        "description": "Prepare ingredients step 1 for khichdi.",
+        "type": "instruction",
+        "durationMinutes": 5,
+        "ingredientIds": [
+          "dfe6b5c6-cf22-4f2a-b93c-bb863eabc212",
+          "0bf1d4d4-27a5-4bf1-842b-3cf48983586d"
+        ]
+      },
+      {
+        "id": "e4602c35-0ef6-4dfe-acfa-4473afafb0ff",
+        "description": "Cook step 2 for khichdi.",
+        "type": "cooking",
+        "durationMinutes": 5,
+        "cookingSettings": {
+          "temperature": 166,
+          "speed": 3
+        }
+      },
+      {
+        "id": "dbd7321a-bd22-4328-a3f8-e39b692bb45e",
+        "description": "Prepare ingredients step 3 for khichdi.",
+        "type": "instruction",
+        "durationMinutes": 5,
+        "ingredientIds": [
+          "b07f6e34-5703-4202-b4e9-07a6b300e469"
+        ]
+      },
+      {
+        "id": "bd48f63a-f874-4788-9b29-a1f6fcac31af",
+        "description": "Cook step 4 for khichdi.",
+        "type": "cooking",
+        "durationMinutes": 6,
+        "cookingSettings": {
+          "temperature": 116,
+          "speed": 2
+        }
+      }
+    ],
+    "isFavorite": false,
+    "createdAt": "2025-10-30T11:53:26.485875",
+    "updatedAt": "2025-10-30T11:53:26.485878"
+  },
+  {
+    "id": "05c6d8ca-593e-4fd0-ba85-176b852804c5",
+    "title": "Dal Makhani",
+    "difficulty": "Easy",
+    "ingredients": [
+      {
+        "id": "c3c92dbc-7373-4682-ad25-2166a4048281",
+        "name": "Garlic",
+        "quantity": 130,
+        "unit": "g"
+      },
+      {
+        "id": "67ba86d3-b29c-40e0-8b0c-a45295973c24",
+        "name": "Egg",
+        "quantity": 101,
+        "unit": "pcs"
+      },
+      {
+        "id": "f04ecc1a-7d26-4908-8d04-710e72df821f",
+        "name": "Salt",
+        "quantity": 125,
+        "unit": "g"
+      },
+      {
+        "id": "3168bc68-8786-40b6-9c8c-1a2ee69271d7",
+        "name": "Milk",
+        "quantity": 153,
+        "unit": "ml"
+      },
+      {
+        "id": "4e24f18c-cd7e-4a89-8c4a-c387f2abccb4",
+        "name": "Vegetables",
+        "quantity": 28,
+        "unit": "g"
+      },
+      {
+        "id": "d99a233a-5c46-4348-933c-2ea7a1ae23a5",
+        "name": "Cheese",
+        "quantity": 27,
+        "unit": "g"
+      },
+      {
+        "id": "12c56bd3-4961-4b97-b486-80546d185836",
+        "name": "Chicken",
+        "quantity": 133,
+        "unit": "g"
+      },
+      {
+        "id": "d0599730-3096-4263-be39-b86ab08f94bf",
+        "name": "Butter",
+        "quantity": 190,
+        "unit": "g"
+      }
+    ],
+    "steps": [
+      {
+        "id": "690c7c67-4750-4526-ac69-b8fcace8ebf7",
+        "description": "Prepare ingredients step 1 for dal makhani.",
+        "type": "instruction",
+        "durationMinutes": 3,
+        "ingredientIds": [
+          "67ba86d3-b29c-40e0-8b0c-a45295973c24",
+          "f04ecc1a-7d26-4908-8d04-710e72df821f",
+          "d99a233a-5c46-4348-933c-2ea7a1ae23a5"
+        ]
+      },
+      {
+        "id": "13ca7c96-c366-4867-a20e-780be9d91783",
+        "description": "Cook step 2 for dal makhani.",
+        "type": "cooking",
+        "durationMinutes": 8,
+        "cookingSettings": {
+          "temperature": 163,
+          "speed": 1
+        }
+      },
+      {
+        "id": "a8d1f205-eb3d-45a6-a88f-9c1142bcb332",
+        "description": "Prepare ingredients step 3 for dal makhani.",
+        "type": "instruction",
+        "durationMinutes": 4,
+        "ingredientIds": [
+          "f04ecc1a-7d26-4908-8d04-710e72df821f",
+          "3168bc68-8786-40b6-9c8c-1a2ee69271d7"
+        ]
+      }
+    ],
+    "isFavorite": true,
+    "createdAt": "2025-10-30T11:53:26.485955",
+    "updatedAt": "2025-10-30T11:53:26.485958"
+  },
+  {
+    "id": "800c8aed-7abc-4efb-9f26-7507b42f0c52",
+    "title": "Scrambled Eggs",
+    "difficulty": "Easy",
+    "ingredients": [
+      {
+        "id": "1a0fdd26-f1dd-4ac2-8c14-e04de2419270",
+        "name": "Chicken",
+        "quantity": 130,
+        "unit": "g"
+      },
+      {
+        "id": "33a9b149-9e46-4ff5-8583-5ae7621690f0",
+        "name": "Ginger",
+        "quantity": 23,
+        "unit": "g"
+      },
+      {
+        "id": "714d18e8-e512-471c-9d12-8963396cf0d6",
+        "name": "Vegetables",
+        "quantity": 64,
+        "unit": "g"
+      },
+      {
+        "id": "493c5646-b133-4b17-901d-e4914722f574",
+        "name": "Cheese",
+        "quantity": 67,
+        "unit": "g"
+      },
+      {
+        "id": "e0b59f8a-e61d-42fe-8f38-4d18bedd3db9",
+        "name": "Flour",
+        "quantity": 184,
+        "unit": "g"
+      }
+    ],
+    "steps": [
+      {
+        "id": "05a28f90-793e-4d1a-8ff5-88f45a141f21",
+        "description": "Prepare ingredients step 1 for scrambled eggs.",
+        "type": "instruction",
+        "durationMinutes": 5,
+        "ingredientIds": [
+          "1a0fdd26-f1dd-4ac2-8c14-e04de2419270"
+        ]
+      },
+      {
+        "id": "92c921d8-8197-47cf-b5cc-46ab5ace946e",
+        "description": "Cook step 2 for scrambled eggs.",
+        "type": "cooking",
+        "durationMinutes": 6,
+        "cookingSettings": {
+          "temperature": 154,
+          "speed": 5
+        }
+      },
+      {
+        "id": "c150ba48-19f9-4ebe-8ce2-32f1b4d8374c",
+        "description": "Prepare ingredients step 3 for scrambled eggs.",
+        "type": "instruction",
+        "durationMinutes": 5,
+        "ingredientIds": [
+          "714d18e8-e512-471c-9d12-8963396cf0d6",
+          "33a9b149-9e46-4ff5-8583-5ae7621690f0"
+        ]
+      },
+      {
+        "id": "bba4a48d-80f9-4e69-819f-4c545530de14",
+        "description": "Cook step 4 for scrambled eggs.",
+        "type": "cooking",
+        "durationMinutes": 3,
+        "cookingSettings": {
+          "temperature": 123,
+          "speed": 4
+        }
+      },
+      {
+        "id": "bac97ca6-958f-4914-9cb8-4abe09b2fb27",
+        "description": "Prepare ingredients step 5 for scrambled eggs.",
+        "type": "instruction",
+        "durationMinutes": 2,
+        "ingredientIds": [
+          "1a0fdd26-f1dd-4ac2-8c14-e04de2419270",
+          "e0b59f8a-e61d-42fe-8f38-4d18bedd3db9",
+          "e0b59f8a-e61d-42fe-8f38-4d18bedd3db9"
+        ]
+      }
+    ],
+    "isFavorite": false,
+    "createdAt": "2025-10-30T11:53:26.486032",
+    "updatedAt": "2025-10-30T11:53:26.486035"
+  },
+  {
+    "id": "898f1a9e-a0eb-4b80-b153-76d035c276f5",
+    "title": "Matar Paneer",
+    "difficulty": "Medium",
+    "ingredients": [
+      {
+        "id": "9c661ac3-efc1-4975-b8ba-d80bab0d363e",
+        "name": "Spices",
+        "quantity": 57,
+        "unit": "g"
+      },
+      {
+        "id": "d6d13c1f-8cc2-4e37-9e3e-73de772af699",
+        "name": "Tomato",
+        "quantity": 185,
+        "unit": "g"
+      },
+      {
+        "id": "4a141839-6afe-4d87-b865-88ebb45775eb",
+        "name": "Chili",
+        "quantity": 39,
+        "unit": "pcs"
+      },
+      {
+        "id": "9f8bade1-5464-4a91-a980-f94db3de7024",
+        "name": "Flour",
+        "quantity": 27,
+        "unit": "g"
+      },
+      {
+        "id": "ac467e5e-0f06-409e-8ae0-d3671f248b9b",
+        "name": "Onion",
+        "quantity": 97,
+        "unit": "g"
+      }
+    ],
+    "steps": [
+      {
+        "id": "b4257772-dc57-4a8e-b25e-9a7242d430d2",
+        "description": "Prepare ingredients step 1 for matar paneer.",
+        "type": "instruction",
+        "durationMinutes": 4,
+        "ingredientIds": [
+          "d6d13c1f-8cc2-4e37-9e3e-73de772af699",
+          "ac467e5e-0f06-409e-8ae0-d3671f248b9b"
+        ]
+      },
+      {
+        "id": "601a5b2b-c8e9-4fc7-abbb-a16d60313e6e",
+        "description": "Cook step 2 for matar paneer.",
+        "type": "cooking",
+        "durationMinutes": 4,
+        "cookingSettings": {
+          "temperature": 143,
+          "speed": 2
+        }
+      },
+      {
+        "id": "c95dcb67-f29c-40a2-bc74-7967ad24295f",
+        "description": "Prepare ingredients step 3 for matar paneer.",
+        "type": "instruction",
+        "durationMinutes": 4,
+        "ingredientIds": [
+          "9f8bade1-5464-4a91-a980-f94db3de7024"
+        ]
+      },
+      {
+        "id": "3d80bedf-f3b2-43c7-a711-ffb1c8bbad0f",
+        "description": "Cook step 4 for matar paneer.",
+        "type": "cooking",
+        "durationMinutes": 4,
+        "cookingSettings": {
+          "temperature": 172,
+          "speed": 3
+        }
+      }
+    ],
+    "isFavorite": false,
+    "createdAt": "2025-10-30T11:53:26.486116",
+    "updatedAt": "2025-10-30T11:53:26.486119"
+  },
+  {
+    "id": "5130a7a6-d35f-4e72-a1b7-3e78f64ff0bb",
+    "title": "Chicken Soup",
+    "difficulty": "Medium",
+    "ingredients": [
+      {
+        "id": "1effa21e-98e3-4473-96ac-8449c451508d",
+        "name": "Salt",
+        "quantity": 91,
+        "unit": "g"
+      },
+      {
+        "id": "0d87bd2e-8eee-491f-857d-8e881d10ffa9",
+        "name": "Onion",
+        "quantity": 27,
+        "unit": "g"
+      },
+      {
+        "id": "97033d6d-be37-49e3-bfa0-94cb38e11351",
+        "name": "Chicken",
+        "quantity": 66,
+        "unit": "g"
+      },
+      {
+        "id": "20c6cfe6-6fb5-453b-a1fa-5279dde6a8b6",
+        "name": "Chili",
+        "quantity": 178,
+        "unit": "pcs"
+      },
+      {
+        "id": "3a93c8b5-3953-4eef-9e21-cdf9a85a8276",
+        "name": "Flour",
+        "quantity": 150,
+        "unit": "g"
+      },
+      {
+        "id": "5c16237c-4a9e-447b-a503-20f2614bb114",
+        "name": "Garlic",
+        "quantity": 51,
+        "unit": "g"
+      }
+    ],
+    "steps": [
+      {
+        "id": "cdd0e12b-a66e-4267-ba96-17be7cd02341",
+        "description": "Prepare ingredients step 1 for chicken soup.",
+        "type": "instruction",
+        "durationMinutes": 2,
+        "ingredientIds": [
+          "1effa21e-98e3-4473-96ac-8449c451508d"
+        ]
+      },
+      {
+        "id": "6e51b279-646e-4f33-a828-ebc5ca172c5d",
+        "description": "Cook step 2 for chicken soup.",
+        "type": "cooking",
+        "durationMinutes": 6,
+        "cookingSettings": {
+          "temperature": 170,
+          "speed": 2
+        }
+      },
+      {
+        "id": "2b5626ae-f7c6-4ff7-aec8-57399dd8ac5c",
+        "description": "Prepare ingredients step 3 for chicken soup.",
+        "type": "instruction",
+        "durationMinutes": 5,
+        "ingredientIds": [
+          "5c16237c-4a9e-447b-a503-20f2614bb114"
+        ]
+      },
+      {
+        "id": "21a049b9-a4c4-489f-a3c8-591fa79263cb",
+        "description": "Cook step 4 for chicken soup.",
+        "type": "cooking",
+        "durationMinutes": 5,
+        "cookingSettings": {
+          "temperature": 132,
+          "speed": 3
+        }
+      },
+      {
+        "id": "3bc21b77-81ad-413d-9cd7-44070a12e697",
+        "description": "Prepare ingredients step 5 for chicken soup.",
+        "type": "instruction",
+        "durationMinutes": 4,
+        "ingredientIds": [
+          "20c6cfe6-6fb5-453b-a1fa-5279dde6a8b6",
+          "20c6cfe6-6fb5-453b-a1fa-5279dde6a8b6"
+        ]
+      }
+    ],
+    "isFavorite": true,
+    "createdAt": "2025-10-30T11:53:26.486196",
+    "updatedAt": "2025-10-30T11:53:26.486199"
+  },
+  {
+    "id": "97ca267c-4982-4333-a019-36e3ffee2fe4",
+    "title": "Chole Bhature",
+    "difficulty": "Medium",
+    "ingredients": [
+      {
+        "id": "150bb7af-27a4-4f60-aa0b-d112fb656fca",
+        "name": "Coriander",
+        "quantity": 50,
+        "unit": "g"
+      },
+      {
+        "id": "73a0a3bd-f2ba-4fa3-bb57-d98031df6689",
+        "name": "Flour",
+        "quantity": 107,
+        "unit": "g"
+      },
+      {
+        "id": "e94c847f-2258-4ef0-b80d-dafb30a5d63a",
+        "name": "Oil",
+        "quantity": 180,
+        "unit": "ml"
+      },
+      {
+        "id": "dfbbab45-55b4-4894-99e2-19fb30cfb1a0",
+        "name": "Paneer",
+        "quantity": 43,
+        "unit": "g"
+      },
+      {
+        "id": "6316ca0b-d136-4388-b2ed-0c7288607816",
+        "name": "Garlic",
+        "quantity": 108,
+        "unit": "g"
+      },
+      {
+        "id": "89e2bc2c-c0f3-459e-b64f-c268e43e9f92",
+        "name": "Butter",
+        "quantity": 74,
+        "unit": "g"
+      },
+      {
+        "id": "a9637b1a-5368-4f09-bb6a-cb5c4f253a2d",
+        "name": "Salt",
+        "quantity": 88,
+        "unit": "g"
+      }
+    ],
+    "steps": [
+      {
+        "id": "c9008859-431d-4e18-8e38-87824e6cf594",
+        "description": "Prepare ingredients step 1 for chole bhature.",
+        "type": "instruction",
+        "durationMinutes": 5,
+        "ingredientIds": [
+          "150bb7af-27a4-4f60-aa0b-d112fb656fca",
+          "a9637b1a-5368-4f09-bb6a-cb5c4f253a2d"
+        ]
+      },
+      {
+        "id": "83983c84-0ebf-48f5-85bc-6341fcd589c1",
+        "description": "Cook step 2 for chole bhature.",
+        "type": "cooking",
+        "durationMinutes": 3,
+        "cookingSettings": {
+          "temperature": 102,
+          "speed": 3
+        }
+      },
+      {
+        "id": "5ffc8373-cbc0-4035-bed6-ea29a11672a4",
+        "description": "Prepare ingredients step 3 for chole bhature.",
+        "type": "instruction",
+        "durationMinutes": 4,
+        "ingredientIds": [
+          "150bb7af-27a4-4f60-aa0b-d112fb656fca",
+          "89e2bc2c-c0f3-459e-b64f-c268e43e9f92",
+          "73a0a3bd-f2ba-4fa3-bb57-d98031df6689"
+        ]
+      }
+    ],
+    "isFavorite": true,
+    "createdAt": "2025-10-30T11:53:26.486272",
+    "updatedAt": "2025-10-30T11:53:26.486275"
+  },
+  {
+    "id": "9875211e-5a5e-429c-a65b-951b0e4b79ba",
+    "title": "Vegetable Stew",
+    "difficulty": "Easy",
+    "ingredients": [
+      {
+        "id": "317c91ff-b2be-4e25-8386-d26d910f6535",
+        "name": "Spices",
+        "quantity": 119,
+        "unit": "g"
+      },
+      {
+        "id": "446215bd-dfdf-4b93-b5b8-19da23ad48b1",
+        "name": "Flour",
+        "quantity": 33,
+        "unit": "g"
+      },
+      {
+        "id": "aaa42945-4290-4cfd-bc38-c6c99e1fe2ef",
+        "name": "Cheese",
+        "quantity": 177,
+        "unit": "g"
+      },
+      {
+        "id": "2d0114ec-88d9-4866-a44e-e4924c714161",
+        "name": "Pepper",
+        "quantity": 175,
+        "unit": "g"
+      },
+      {
+        "id": "087688b7-d93c-4090-be1b-fc73b6dce188",
+        "name": "Onion",
+        "quantity": 99,
+        "unit": "g"
+      },
+      {
+        "id": "3c8a827a-05e5-4964-ade7-e4052e7cb74b",
+        "name": "Salt",
+        "quantity": 173,
+        "unit": "g"
+      },
+      {
+        "id": "c98ceef7-15ad-4c30-9f0b-c9062de93b86",
+        "name": "Tomato",
+        "quantity": 172,
+        "unit": "g"
+      },
+      {
+        "id": "77321669-5a54-41d0-ba6d-262c8562bf7b",
+        "name": "Chicken",
+        "quantity": 195,
+        "unit": "g"
+      }
+    ],
+    "steps": [
+      {
+        "id": "e7c6200c-ddd7-4893-b563-889b3d679908",
+        "description": "Prepare ingredients step 1 for vegetable stew.",
+        "type": "instruction",
+        "durationMinutes": 5,
+        "ingredientIds": [
+          "446215bd-dfdf-4b93-b5b8-19da23ad48b1",
+          "3c8a827a-05e5-4964-ade7-e4052e7cb74b",
+          "317c91ff-b2be-4e25-8386-d26d910f6535"
+        ]
+      },
+      {
+        "id": "158c0c58-e7b9-4dd4-a395-3bf195476e8a",
+        "description": "Cook step 2 for vegetable stew.",
+        "type": "cooking",
+        "durationMinutes": 8,
+        "cookingSettings": {
+          "temperature": 109,
+          "speed": 3
+        }
+      },
+      {
+        "id": "93dda824-2b4d-4780-b471-7a74a161a1b0",
+        "description": "Prepare ingredients step 3 for vegetable stew.",
+        "type": "instruction",
+        "durationMinutes": 2,
+        "ingredientIds": [
+          "2d0114ec-88d9-4866-a44e-e4924c714161",
+          "446215bd-dfdf-4b93-b5b8-19da23ad48b1"
+        ]
+      },
+      {
+        "id": "627d88de-41ad-4804-912e-88204924a413",
+        "description": "Cook step 4 for vegetable stew.",
+        "type": "cooking",
+        "durationMinutes": 3,
+        "cookingSettings": {
+          "temperature": 122,
+          "speed": 5
+        }
+      }
+    ],
+    "isFavorite": true,
+    "createdAt": "2025-10-30T11:53:26.486351",
+    "updatedAt": "2025-10-30T11:53:26.486353"
+  },
+  {
+    "id": "f3edd153-d2c9-4a53-ba67-160d98d68991",
+    "title": "Dal Tadka",
+    "difficulty": "Hard",
+    "ingredients": [
+      {
+        "id": "f0e6c689-1c5c-498d-9d33-a8827aaafa4c",
+        "name": "Butter",
+        "quantity": 183,
+        "unit": "g"
+      },
+      {
+        "id": "a9591485-8299-438f-9479-de5d100d5212",
+        "name": "Paneer",
+        "quantity": 158,
+        "unit": "g"
+      },
+      {
+        "id": "6acf475a-8c23-480f-b8ca-8397586f6e05",
+        "name": "Egg",
+        "quantity": 135,
+        "unit": "pcs"
+      },
+      {
+        "id": "b465ad75-53bb-4f35-a6c9-1ec6998ce2d9",
+        "name": "Coriander",
+        "quantity": 82,
+        "unit": "g"
+      },
+      {
+        "id": "4615ccd2-db44-43a4-b2e1-e29409137853",
+        "name": "Tomato",
+        "quantity": 196,
+        "unit": "g"
+      },
+      {
+        "id": "e868dcb4-5898-4628-a652-9beb1a1385df",
+        "name": "Flour",
+        "quantity": 194,
+        "unit": "g"
+      }
+    ],
+    "steps": [
+      {
+        "id": "6b945e94-101a-4dfb-87b7-78f4af429564",
+        "description": "Prepare ingredients step 1 for dal tadka.",
+        "type": "instruction",
+        "durationMinutes": 4,
+        "ingredientIds": [
+          "f0e6c689-1c5c-498d-9d33-a8827aaafa4c",
+          "e868dcb4-5898-4628-a652-9beb1a1385df"
+        ]
+      },
+      {
+        "id": "45408025-4748-4d72-9ea1-2ba3d1420176",
+        "description": "Cook step 2 for dal tadka.",
+        "type": "cooking",
+        "durationMinutes": 4,
+        "cookingSettings": {
+          "temperature": 116,
+          "speed": 5
+        }
+      },
+      {
+        "id": "b125089b-d4b2-4083-94e1-f4d32cc9de11",
+        "description": "Prepare ingredients step 3 for dal tadka.",
+        "type": "instruction",
+        "durationMinutes": 3,
+        "ingredientIds": [
+          "b465ad75-53bb-4f35-a6c9-1ec6998ce2d9",
+          "4615ccd2-db44-43a4-b2e1-e29409137853"
+        ]
+      },
+      {
+        "id": "b966ad3c-0b1f-41a2-a3c5-6124e55816c8",
+        "description": "Cook step 4 for dal tadka.",
+        "type": "cooking",
+        "durationMinutes": 8,
+        "cookingSettings": {
+          "temperature": 158,
+          "speed": 2
+        }
+      },
+      {
+        "id": "f3cdc54e-552c-45cc-b7b2-1505f76e2281",
+        "description": "Prepare ingredients step 5 for dal tadka.",
+        "type": "instruction",
+        "durationMinutes": 4,
+        "ingredientIds": [
+          "f0e6c689-1c5c-498d-9d33-a8827aaafa4c"
+        ]
+      }
+    ],
+    "isFavorite": false,
+    "createdAt": "2025-10-30T11:53:26.486432",
+    "updatedAt": "2025-10-30T11:53:26.486437"
+  },
+  {
+    "id": "8847d746-e29b-474f-81ab-486568ffb178",
+    "title": "Samosa",
+    "difficulty": "Hard",
+    "ingredients": [
+      {
+        "id": "4b14e117-f80b-48df-885a-d5b226294b68",
+        "name": "Spices",
+        "quantity": 62,
+        "unit": "g"
+      },
+      {
+        "id": "6e1fe881-9c04-426a-9874-887f3405c732",
+        "name": "Cheese",
+        "quantity": 133,
+        "unit": "g"
+      },
+      {
+        "id": "d52e3158-9e61-4c10-a4c5-b1d0cb2b0985",
+        "name": "Rice",
+        "quantity": 25,
+        "unit": "g"
+      },
+      {
+        "id": "69f78f86-4b67-4f39-9863-d1082672cb0d",
+        "name": "Coriander",
+        "quantity": 101,
+        "unit": "g"
+      },
+      {
+        "id": "d8fda88b-9924-4148-8718-d8ba98510415",
+        "name": "Garlic",
+        "quantity": 112,
+        "unit": "g"
+      },
+      {
+        "id": "ebbac3e7-b4d8-4f5d-b367-08586e8d6261",
+        "name": "Onion",
+        "quantity": 108,
+        "unit": "g"
+      },
+      {
+        "id": "bbf9608d-886b-48fa-baa9-d3e978a06a38",
+        "name": "Ginger",
+        "quantity": 71,
+        "unit": "g"
+      }
+    ],
+    "steps": [
+      {
+        "id": "8f0a607c-9c21-41ac-8f86-cf4a88cd7014",
+        "description": "Prepare ingredients step 1 for samosa.",
+        "type": "instruction",
+        "durationMinutes": 2,
+        "ingredientIds": [
+          "4b14e117-f80b-48df-885a-d5b226294b68",
+          "69f78f86-4b67-4f39-9863-d1082672cb0d"
+        ]
+      },
+      {
+        "id": "bcdcffe7-469f-4489-8b9d-7d98805478dd",
+        "description": "Cook step 2 for samosa.",
+        "type": "cooking",
+        "durationMinutes": 10,
+        "cookingSettings": {
+          "temperature": 130,
+          "speed": 3
+        }
+      },
+      {
+        "id": "919bccb1-6f9d-42e3-8a24-9ea52729de5f",
+        "description": "Prepare ingredients step 3 for samosa.",
+        "type": "instruction",
+        "durationMinutes": 6,
+        "ingredientIds": [
+          "d52e3158-9e61-4c10-a4c5-b1d0cb2b0985",
+          "6e1fe881-9c04-426a-9874-887f3405c732"
+        ]
+      },
+      {
+        "id": "9affed3e-9ec0-49ed-b536-964661aa1e50",
+        "description": "Cook step 4 for samosa.",
+        "type": "cooking",
+        "durationMinutes": 6,
+        "cookingSettings": {
+          "temperature": 146,
+          "speed": 5
+        }
+      },
+      {
+        "id": "39eb0951-30c2-459d-be3c-084a510f0749",
+        "description": "Prepare ingredients step 5 for samosa.",
+        "type": "instruction",
+        "durationMinutes": 6,
+        "ingredientIds": [
+          "4b14e117-f80b-48df-885a-d5b226294b68",
+          "ebbac3e7-b4d8-4f5d-b367-08586e8d6261",
+          "69f78f86-4b67-4f39-9863-d1082672cb0d"
+        ]
+      }
+    ],
+    "isFavorite": true,
+    "createdAt": "2025-10-30T11:53:26.486530",
+    "updatedAt": "2025-10-30T11:53:26.486534"
+  },
+  {
+    "id": "475dfa8c-7eb5-44de-9571-367a87aa67f1",
+    "title": "Kadai Paneer",
+    "difficulty": "Hard",
+    "ingredients": [
+      {
+        "id": "f28f662e-f055-4033-bba6-fd59125ddcf7",
+        "name": "Chili",
+        "quantity": 149,
+        "unit": "pcs"
+      },
+      {
+        "id": "8f6dea8e-e05b-4f26-824c-716a2c8db7ef",
+        "name": "Vegetables",
+        "quantity": 138,
+        "unit": "g"
+      },
+      {
+        "id": "d386f472-3122-40a2-90bd-eba9a48306b7",
+        "name": "Onion",
+        "quantity": 22,
+        "unit": "g"
+      },
+      {
+        "id": "9627fdfe-79ad-499b-94bc-2f96918cfb6c",
+        "name": "Flour",
+        "quantity": 24,
+        "unit": "g"
+      },
+      {
+        "id": "648c2c32-46c9-4b34-86c7-d7e0c0b9275f",
+        "name": "Egg",
+        "quantity": 170,
+        "unit": "pcs"
+      }
+    ],
+    "steps": [
+      {
+        "id": "ef614831-7658-4b2a-9417-a5c8175ca628",
+        "description": "Prepare ingredients step 1 for kadai paneer.",
+        "type": "instruction",
+        "durationMinutes": 5,
+        "ingredientIds": [
+          "f28f662e-f055-4033-bba6-fd59125ddcf7",
+          "d386f472-3122-40a2-90bd-eba9a48306b7",
+          "648c2c32-46c9-4b34-86c7-d7e0c0b9275f"
+        ]
+      },
+      {
+        "id": "6495421a-7b74-4ba3-b42e-191befd01afe",
+        "description": "Cook step 2 for kadai paneer.",
+        "type": "cooking",
+        "durationMinutes": 7,
+        "cookingSettings": {
+          "temperature": 169,
+          "speed": 1
+        }
+      },
+      {
+        "id": "8384b883-6274-4163-8942-df45d0f45b53",
+        "description": "Prepare ingredients step 3 for kadai paneer.",
+        "type": "instruction",
+        "durationMinutes": 4,
+        "ingredientIds": [
+          "d386f472-3122-40a2-90bd-eba9a48306b7",
+          "9627fdfe-79ad-499b-94bc-2f96918cfb6c",
+          "648c2c32-46c9-4b34-86c7-d7e0c0b9275f"
+        ]
+      },
+      {
+        "id": "c70e9c6f-01a3-4b44-8dfd-5480a716aaf5",
+        "description": "Cook step 4 for kadai paneer.",
+        "type": "cooking",
+        "durationMinutes": 8,
+        "cookingSettings": {
+          "temperature": 158,
+          "speed": 5
+        }
+      }
+    ],
+    "isFavorite": true,
+    "createdAt": "2025-10-30T11:53:26.486598",
+    "updatedAt": "2025-10-30T11:53:26.486601"
+  },
+  {
+    "id": "d878280f-c1e5-4827-9d5d-4988db4b7df5",
+    "title": "Mushroom Curry",
+    "difficulty": "Medium",
+    "ingredients": [
+      {
+        "id": "1b24c13d-4983-4471-97a6-e688b4aca890",
+        "name": "Oil",
+        "quantity": 128,
+        "unit": "ml"
+      },
+      {
+        "id": "7afa231b-d33d-41ec-8afe-2d7d86fc3534",
+        "name": "Pepper",
+        "quantity": 160,
+        "unit": "g"
+      },
+      {
+        "id": "4a1b7562-ecb5-4556-b2f6-0dccebd4c8d0",
+        "name": "Tomato",
+        "quantity": 26,
+        "unit": "g"
+      },
+      {
+        "id": "1da18065-4940-4122-ac8f-043f6c3a87e8",
+        "name": "Cheese",
+        "quantity": 48,
+        "unit": "g"
+      },
+      {
+        "id": "9afb78a2-6d6c-4ded-a9e4-5afa95b368ee",
+        "name": "Chili",
+        "quantity": 195,
+        "unit": "pcs"
+      }
+    ],
+    "steps": [
+      {
+        "id": "3e62dbbc-4512-4ffe-b14c-38133a1b2cff",
+        "description": "Prepare ingredients step 1 for mushroom curry.",
+        "type": "instruction",
+        "durationMinutes": 5,
+        "ingredientIds": [
+          "9afb78a2-6d6c-4ded-a9e4-5afa95b368ee"
+        ]
+      },
+      {
+        "id": "bdb34483-87b6-446f-894b-3e8272088363",
+        "description": "Cook step 2 for mushroom curry.",
+        "type": "cooking",
+        "durationMinutes": 8,
+        "cookingSettings": {
+          "temperature": 155,
+          "speed": 3
+        }
+      },
+      {
+        "id": "22f040c7-3269-4cff-84f1-9fe6ccc8bf27",
+        "description": "Prepare ingredients step 3 for mushroom curry.",
+        "type": "instruction",
+        "durationMinutes": 2,
+        "ingredientIds": [
+          "7afa231b-d33d-41ec-8afe-2d7d86fc3534",
+          "9afb78a2-6d6c-4ded-a9e4-5afa95b368ee"
+        ]
+      },
+      {
+        "id": "a698369e-d56f-4710-9c03-901f423a959a",
+        "description": "Cook step 4 for mushroom curry.",
+        "type": "cooking",
+        "durationMinutes": 5,
+        "cookingSettings": {
+          "temperature": 141,
+          "speed": 1
+        }
+      },
+      {
+        "id": "55aaf922-11ed-4e41-9a55-7efcd8093d72",
+        "description": "Prepare ingredients step 5 for mushroom curry.",
+        "type": "instruction",
+        "durationMinutes": 3,
+        "ingredientIds": [
+          "1b24c13d-4983-4471-97a6-e688b4aca890",
+          "1da18065-4940-4122-ac8f-043f6c3a87e8"
+        ]
+      }
+    ],
+    "isFavorite": true,
+    "createdAt": "2025-10-30T11:53:26.486673",
+    "updatedAt": "2025-10-30T11:53:26.486675"
+  },
+  {
+    "id": "69ece05a-afd2-4924-9ec2-fa0b0aaed6c2",
+    "title": "Caesar Salad",
+    "difficulty": "Medium",
+    "ingredients": [
+      {
+        "id": "e6652a05-453f-4e7e-984b-4871c94ac4a9",
+        "name": "Egg",
+        "quantity": 107,
+        "unit": "pcs"
+      },
+      {
+        "id": "965cc269-dc16-4191-8d29-c63bf70976f4",
+        "name": "Salt",
+        "quantity": 178,
+        "unit": "g"
+      },
+      {
+        "id": "721c6d83-022f-47bf-8ac8-9b9f8ac04f50",
+        "name": "Pepper",
+        "quantity": 154,
+        "unit": "g"
+      },
+      {
+        "id": "a5d15523-3b11-4647-a283-48219a9030d9",
+        "name": "Chicken",
+        "quantity": 44,
+        "unit": "g"
+      },
+      {
+        "id": "a7273d8e-6ee5-40be-8a0f-f5c497a30da6",
+        "name": "Onion",
+        "quantity": 119,
+        "unit": "g"
+      }
+    ],
+    "steps": [
+      {
+        "id": "f45d35e1-33df-4beb-8eb5-4a84d7bd2db1",
+        "description": "Prepare ingredients step 1 for caesar salad.",
+        "type": "instruction",
+        "durationMinutes": 2,
+        "ingredientIds": [
+          "a5d15523-3b11-4647-a283-48219a9030d9"
+        ]
+      },
+      {
+        "id": "16545239-a46f-4956-b702-b64c00f36ed7",
+        "description": "Cook step 2 for caesar salad.",
+        "type": "cooking",
+        "durationMinutes": 9,
+        "cookingSettings": {
+          "temperature": 173,
+          "speed": 3
+        }
+      },
+      {
+        "id": "19aa087c-ab07-4aec-a9c5-7bf7d16a1791",
+        "description": "Prepare ingredients step 3 for caesar salad.",
+        "type": "instruction",
+        "durationMinutes": 2,
+        "ingredientIds": [
+          "a7273d8e-6ee5-40be-8a0f-f5c497a30da6",
+          "721c6d83-022f-47bf-8ac8-9b9f8ac04f50"
+        ]
+      },
+      {
+        "id": "79eed546-f389-4676-9a0e-0fce10704f26",
+        "description": "Cook step 4 for caesar salad.",
+        "type": "cooking",
+        "durationMinutes": 10,
+        "cookingSettings": {
+          "temperature": 134,
+          "speed": 1
+        }
+      }
+    ],
+    "isFavorite": false,
+    "createdAt": "2025-10-30T11:53:26.486743",
+    "updatedAt": "2025-10-30T11:53:26.486745"
+  },
+  {
+    "id": "340a5075-49d3-466d-b890-1ab6e2d4c0a0",
+    "title": "Pasta Arrabbiata",
+    "difficulty": "Easy",
+    "ingredients": [
+      {
+        "id": "2944a781-8ffb-40c6-af91-b877698cd9ce",
+        "name": "Pepper",
+        "quantity": 198,
+        "unit": "g"
+      },
+      {
+        "id": "40c7d907-c14c-4d69-97fc-bb7ac5510190",
+        "name": "Milk",
+        "quantity": 77,
+        "unit": "ml"
+      },
+      {
+        "id": "f488ece7-a316-4e2b-b45c-07c735692936",
+        "name": "Chili",
+        "quantity": 173,
+        "unit": "pcs"
+      },
+      {
+        "id": "662e87a9-3678-42c1-9dd1-abbbf3b8a497",
+        "name": "Ginger",
+        "quantity": 115,
+        "unit": "g"
+      },
+      {
+        "id": "84b28e72-e21b-43b0-8875-2308c3fc3c3e",
+        "name": "Spices",
+        "quantity": 194,
+        "unit": "g"
+      },
+      {
+        "id": "e0417ded-609f-4473-9234-fc2e8a8490bf",
+        "name": "Butter",
+        "quantity": 39,
+        "unit": "g"
+      }
+    ],
+    "steps": [
+      {
+        "id": "e6160897-796e-4acd-8320-65d40427f92e",
+        "description": "Prepare ingredients step 1 for pasta arrabbiata.",
+        "type": "instruction",
+        "durationMinutes": 3,
+        "ingredientIds": [
+          "84b28e72-e21b-43b0-8875-2308c3fc3c3e"
+        ]
+      },
+      {
+        "id": "5838b2fb-e49f-4d0c-bdb8-c60509c4e1d2",
+        "description": "Cook step 2 for pasta arrabbiata.",
+        "type": "cooking",
+        "durationMinutes": 5,
+        "cookingSettings": {
+          "temperature": 133,
+          "speed": 3
+        }
+      },
+      {
+        "id": "b959a912-47bb-4f72-8091-7dd3ecec1e43",
+        "description": "Prepare ingredients step 3 for pasta arrabbiata.",
+        "type": "instruction",
+        "durationMinutes": 2,
+        "ingredientIds": [
+          "84b28e72-e21b-43b0-8875-2308c3fc3c3e",
+          "40c7d907-c14c-4d69-97fc-bb7ac5510190",
+          "f488ece7-a316-4e2b-b45c-07c735692936"
+        ]
+      },
+      {
+        "id": "e12fb64c-cc6a-4ac9-bbcf-d1cba4bbb956",
+        "description": "Cook step 4 for pasta arrabbiata.",
+        "type": "cooking",
+        "durationMinutes": 8,
+        "cookingSettings": {
+          "temperature": 161,
+          "speed": 4
+        }
+      }
+    ],
+    "isFavorite": true,
+    "createdAt": "2025-10-30T11:53:26.486814",
+    "updatedAt": "2025-10-30T11:53:26.486817"
+  },
+  {
+    "id": "9a25521a-945b-45d5-be07-72fcf80a68c5",
+    "title": "Poha",
+    "difficulty": "Easy",
+    "ingredients": [
+      {
+        "id": "c117e6b0-7df0-4c2d-8c99-6d97fcede2c7",
+        "name": "Butter",
+        "quantity": 176,
+        "unit": "g"
+      },
+      {
+        "id": "40daf62e-a8fd-40c5-80c8-a8a20a22de09",
+        "name": "Chili",
+        "quantity": 53,
+        "unit": "pcs"
+      },
+      {
+        "id": "33b2c408-258e-438e-a6ac-397247b5743f",
+        "name": "Milk",
+        "quantity": 145,
+        "unit": "ml"
+      },
+      {
+        "id": "289e4c98-024d-40df-84b8-619ee1e43028",
+        "name": "Salt",
+        "quantity": 114,
+        "unit": "g"
+      },
+      {
+        "id": "10194f13-9964-4489-94ce-100a531a17bf",
+        "name": "Oil",
+        "quantity": 90,
+        "unit": "ml"
+      },
+      {
+        "id": "93666f59-7241-4574-bc3a-d4d528013407",
+        "name": "Spices",
+        "quantity": 84,
+        "unit": "g"
+      },
+      {
+        "id": "7ac38e4e-81f1-486f-ade1-bca2cfb82c8f",
+        "name": "Paneer",
+        "quantity": 37,
+        "unit": "g"
+      }
+    ],
+    "steps": [
+      {
+        "id": "cc73270e-3d7e-4cb8-92f7-173091335678",
+        "description": "Prepare ingredients step 1 for poha.",
+        "type": "instruction",
+        "durationMinutes": 4,
+        "ingredientIds": [
+          "93666f59-7241-4574-bc3a-d4d528013407"
+        ]
+      },
+      {
+        "id": "7a36d5ac-6cbc-4074-a10d-b5349375ec3e",
+        "description": "Cook step 2 for poha.",
+        "type": "cooking",
+        "durationMinutes": 6,
+        "cookingSettings": {
+          "temperature": 170,
+          "speed": 2
+        }
+      },
+      {
+        "id": "f80e3ebf-e69e-4b80-8e2b-1756b81cca8a",
+        "description": "Prepare ingredients step 3 for poha.",
+        "type": "instruction",
+        "durationMinutes": 2,
+        "ingredientIds": [
+          "289e4c98-024d-40df-84b8-619ee1e43028",
+          "289e4c98-024d-40df-84b8-619ee1e43028",
+          "40daf62e-a8fd-40c5-80c8-a8a20a22de09"
+        ]
+      }
+    ],
+    "isFavorite": true,
+    "createdAt": "2025-10-30T11:53:26.486896",
+    "updatedAt": "2025-10-30T11:53:26.486899"
+  },
+  {
+    "id": "21e0d6bc-1f10-40f2-b71d-12ec2e722a4f",
+    "title": "Tandoori Chicken",
+    "difficulty": "Medium",
+    "ingredients": [
+      {
+        "id": "6630346d-8dfc-48ac-825d-56579e750855",
+        "name": "Onion",
+        "quantity": 200,
+        "unit": "g"
+      },
+      {
+        "id": "e36aac81-858e-4121-82c5-2afc6a6481bc",
+        "name": "Chicken",
+        "quantity": 184,
+        "unit": "g"
+      },
+      {
+        "id": "a28720e9-e984-4781-9fd9-c246d0a8293f",
+        "name": "Cheese",
+        "quantity": 160,
+        "unit": "g"
+      },
+      {
+        "id": "58112ba4-bd4f-4f3b-8627-10c17da314bf",
+        "name": "Pepper",
+        "quantity": 54,
+        "unit": "g"
+      },
+      {
+        "id": "f77b6434-256d-4932-bb52-54316088d6c7",
+        "name": "Flour",
+        "quantity": 135,
+        "unit": "g"
+      }
+    ],
+    "steps": [
+      {
+        "id": "dda51edd-6cb2-4805-b810-d5a4ef52c619",
+        "description": "Prepare ingredients step 1 for tandoori chicken.",
+        "type": "instruction",
+        "durationMinutes": 3,
+        "ingredientIds": [
+          "58112ba4-bd4f-4f3b-8627-10c17da314bf"
+        ]
+      },
+      {
+        "id": "160c8771-40ee-48f7-b451-a2fb0b1ad59f",
+        "description": "Cook step 2 for tandoori chicken.",
+        "type": "cooking",
+        "durationMinutes": 3,
+        "cookingSettings": {
+          "temperature": 130,
+          "speed": 2
+        }
+      },
+      {
+        "id": "6b8d738a-9a3c-4532-b364-97d0b113b41e",
+        "description": "Prepare ingredients step 3 for tandoori chicken.",
+        "type": "instruction",
+        "durationMinutes": 4,
+        "ingredientIds": [
+          "e36aac81-858e-4121-82c5-2afc6a6481bc",
+          "a28720e9-e984-4781-9fd9-c246d0a8293f",
+          "6630346d-8dfc-48ac-825d-56579e750855"
+        ]
+      },
+      {
+        "id": "db0b75da-a744-4c18-97a3-93254a67c4b5",
+        "description": "Cook step 4 for tandoori chicken.",
+        "type": "cooking",
+        "durationMinutes": 4,
+        "cookingSettings": {
+          "temperature": 111,
+          "speed": 4
+        }
+      }
+    ],
+    "isFavorite": true,
+    "createdAt": "2025-10-30T11:53:26.486964",
+    "updatedAt": "2025-10-30T11:53:26.486977"
+  },
+  {
+    "id": "09f24108-6082-4aed-971c-3329c464967f",
+    "title": "Pav Bhaji",
+    "difficulty": "Medium",
+    "ingredients": [
+      {
+        "id": "8a89bb89-21f5-4786-8625-5d5369dab84b",
+        "name": "Vegetables",
+        "quantity": 76,
+        "unit": "g"
+      },
+      {
+        "id": "c6c35621-2f79-48bc-9c82-fc0b4aa8a0b5",
+        "name": "Paneer",
+        "quantity": 68,
+        "unit": "g"
+      },
+      {
+        "id": "f4bd8320-0e6f-4874-a870-7a1acd140ce1",
+        "name": "Egg",
+        "quantity": 179,
+        "unit": "pcs"
+      },
+      {
+        "id": "d2bbbd03-8e5b-4e5a-aad1-f0cb3138261d",
+        "name": "Pepper",
+        "quantity": 117,
+        "unit": "g"
+      },
+      {
+        "id": "74ffa69a-3a2d-440f-a331-9c43b5e77e13",
+        "name": "Butter",
+        "quantity": 54,
+        "unit": "g"
+      }
+    ],
+    "steps": [
+      {
+        "id": "6669f92c-a263-43ae-bbb8-4540f8ff7501",
+        "description": "Prepare ingredients step 1 for pav bhaji.",
+        "type": "instruction",
+        "durationMinutes": 3,
+        "ingredientIds": [
+          "c6c35621-2f79-48bc-9c82-fc0b4aa8a0b5"
+        ]
+      },
+      {
+        "id": "7b50dc0a-b75a-4453-bdae-e489671db8ef",
+        "description": "Cook step 2 for pav bhaji.",
+        "type": "cooking",
+        "durationMinutes": 5,
+        "cookingSettings": {
+          "temperature": 179,
+          "speed": 1
+        }
+      },
+      {
+        "id": "0973931f-69c2-44fe-b887-780e55d85f95",
+        "description": "Prepare ingredients step 3 for pav bhaji.",
+        "type": "instruction",
+        "durationMinutes": 6,
+        "ingredientIds": [
+          "c6c35621-2f79-48bc-9c82-fc0b4aa8a0b5"
+        ]
+      },
+      {
+        "id": "5f1217b2-74de-4c82-b4c8-f5b1451893b8",
+        "description": "Cook step 4 for pav bhaji.",
+        "type": "cooking",
+        "durationMinutes": 6,
+        "cookingSettings": {
+          "temperature": 145,
+          "speed": 1
+        }
+      },
+      {
+        "id": "c23a25a7-9777-461d-af0f-92859448d373",
+        "description": "Prepare ingredients step 5 for pav bhaji.",
+        "type": "instruction",
+        "durationMinutes": 3,
+        "ingredientIds": [
+          "74ffa69a-3a2d-440f-a331-9c43b5e77e13",
+          "f4bd8320-0e6f-4874-a870-7a1acd140ce1"
+        ]
+      }
+    ],
+    "isFavorite": false,
+    "createdAt": "2025-10-30T11:53:26.487050",
+    "updatedAt": "2025-10-30T11:53:26.487053"
+  },
+  {
+    "id": "052d658b-8624-4136-8bde-12e12aaaa05c",
+    "title": "Aloo Paratha",
+    "difficulty": "Hard",
+    "ingredients": [
+      {
+        "id": "4c872afb-f1da-4e27-8602-41905a1b2862",
+        "name": "Oil",
+        "quantity": 169,
+        "unit": "ml"
+      },
+      {
+        "id": "e6079f0b-d175-490b-aedc-84aec5975d4c",
+        "name": "Chicken",
+        "quantity": 171,
+        "unit": "g"
+      },
+      {
+        "id": "347afd94-46c0-4b6c-bdca-3c782471244b",
+        "name": "Cheese",
+        "quantity": 29,
+        "unit": "g"
+      },
+      {
+        "id": "573cb496-bdac-46ab-814e-01d4507ec701",
+        "name": "Pepper",
+        "quantity": 91,
+        "unit": "g"
+      },
+      {
+        "id": "0b4bcfba-03c4-4788-ad03-56f6bb1f5b62",
+        "name": "Onion",
+        "quantity": 104,
+        "unit": "g"
+      },
+      {
+        "id": "824374af-94df-4173-92c6-00de42b1a012",
+        "name": "Tomato",
+        "quantity": 28,
+        "unit": "g"
+      },
+      {
+        "id": "1024b529-2b75-4727-8780-e871af0f010c",
+        "name": "Egg",
+        "quantity": 176,
+        "unit": "pcs"
+      }
+    ],
+    "steps": [
+      {
+        "id": "cb0308a6-f69e-47c2-bda5-7533f369221b",
+        "description": "Prepare ingredients step 1 for aloo paratha.",
+        "type": "instruction",
+        "durationMinutes": 5,
+        "ingredientIds": [
+          "1024b529-2b75-4727-8780-e871af0f010c",
+          "0b4bcfba-03c4-4788-ad03-56f6bb1f5b62",
+          "0b4bcfba-03c4-4788-ad03-56f6bb1f5b62"
+        ]
+      },
+      {
+        "id": "4d7fc7d1-2454-47ad-8707-da7f1ce3b585",
+        "description": "Cook step 2 for aloo paratha.",
+        "type": "cooking",
+        "durationMinutes": 7,
+        "cookingSettings": {
+          "temperature": 100,
+          "speed": 1
+        }
+      },
+      {
+        "id": "f8c70497-c357-446e-bcbc-614282f8e989",
+        "description": "Prepare ingredients step 3 for aloo paratha.",
+        "type": "instruction",
+        "durationMinutes": 5,
+        "ingredientIds": [
+          "4c872afb-f1da-4e27-8602-41905a1b2862",
+          "4c872afb-f1da-4e27-8602-41905a1b2862"
+        ]
+      }
+    ],
+    "isFavorite": true,
+    "createdAt": "2025-10-30T11:53:26.487122",
+    "updatedAt": "2025-10-30T11:53:26.487125"
+  },
+  {
+    "id": "286c54ae-2992-4b15-9bde-45858027eb52",
+    "title": "Idli Sambhar",
+    "difficulty": "Hard",
+    "ingredients": [
+      {
+        "id": "7cb51778-898d-4216-b11c-318bde6d1b0b",
+        "name": "Paneer",
+        "quantity": 75,
+        "unit": "g"
+      },
+      {
+        "id": "a2e6cd4b-a270-4191-9a34-0133ea1359e1",
+        "name": "Onion",
+        "quantity": 170,
+        "unit": "g"
+      },
+      {
+        "id": "2aba2b29-7e42-4827-84a4-5c34eff5ad4b",
+        "name": "Cheese",
+        "quantity": 112,
+        "unit": "g"
+      },
+      {
+        "id": "0cf41ae6-48c1-4d08-a4f5-a6b580f3a392",
+        "name": "Pepper",
+        "quantity": 173,
+        "unit": "g"
+      },
+      {
+        "id": "e2dcc8c2-8d14-4c30-a549-24b0b6e2bf77",
+        "name": "Chili",
+        "quantity": 198,
+        "unit": "pcs"
+      },
+      {
+        "id": "7e18acc6-4f60-4778-a10d-fee25023074e",
+        "name": "Egg",
+        "quantity": 116,
+        "unit": "pcs"
+      },
+      {
+        "id": "61b58be6-35ff-4dff-b4a8-9c2e9415dcdd",
+        "name": "Ginger",
+        "quantity": 169,
+        "unit": "g"
+      }
+    ],
+    "steps": [
+      {
+        "id": "e9595dc8-b883-4339-8e4e-2a7130f70744",
+        "description": "Prepare ingredients step 1 for idli sambhar.",
+        "type": "instruction",
+        "durationMinutes": 3,
+        "ingredientIds": [
+          "e2dcc8c2-8d14-4c30-a549-24b0b6e2bf77",
+          "7cb51778-898d-4216-b11c-318bde6d1b0b",
+          "61b58be6-35ff-4dff-b4a8-9c2e9415dcdd"
+        ]
+      },
+      {
+        "id": "cc374e24-0bc3-4ff3-9304-1ad5a24ff52d",
+        "description": "Cook step 2 for idli sambhar.",
+        "type": "cooking",
+        "durationMinutes": 5,
+        "cookingSettings": {
+          "temperature": 130,
+          "speed": 4
+        }
+      },
+      {
+        "id": "44d1f215-7e08-43f3-aebe-38f4d36b065a",
+        "description": "Prepare ingredients step 3 for idli sambhar.",
+        "type": "instruction",
+        "durationMinutes": 4,
+        "ingredientIds": [
+          "7cb51778-898d-4216-b11c-318bde6d1b0b",
+          "e2dcc8c2-8d14-4c30-a549-24b0b6e2bf77",
+          "2aba2b29-7e42-4827-84a4-5c34eff5ad4b"
+        ]
+      },
+      {
+        "id": "bf011439-3086-42fa-9652-552cdb5e0712",
+        "description": "Cook step 4 for idli sambhar.",
+        "type": "cooking",
+        "durationMinutes": 5,
+        "cookingSettings": {
+          "temperature": 166,
+          "speed": 1
+        }
+      }
+    ],
+    "isFavorite": false,
+    "createdAt": "2025-10-30T11:53:26.487198",
+    "updatedAt": "2025-10-30T11:53:26.487200"
+  },
+  {
+    "id": "259cd059-93b6-4003-9e3b-c0cc192f5223",
+    "title": "Grilled Sandwich",
+    "difficulty": "Medium",
+    "ingredients": [
+      {
+        "id": "32071545-c966-4e58-9d82-b7250cc72557",
+        "name": "Spices",
+        "quantity": 144,
+        "unit": "g"
+      },
+      {
+        "id": "952812b8-522f-44a3-9c66-49a62da5bed2",
+        "name": "Chili",
+        "quantity": 79,
+        "unit": "pcs"
+      },
+      {
+        "id": "b5e37519-0548-4490-9f61-aa4eab6de2a6",
+        "name": "Onion",
+        "quantity": 169,
+        "unit": "g"
+      },
+      {
+        "id": "1e39c753-3517-4136-a9e5-051b4dad7ad8",
+        "name": "Chicken",
+        "quantity": 163,
+        "unit": "g"
+      },
+      {
+        "id": "ba161a80-cf81-4a4a-80a0-7719fe7edd55",
+        "name": "Cheese",
+        "quantity": 106,
+        "unit": "g"
+      },
+      {
+        "id": "e00a51c7-ec70-418d-abc8-b10b957879c0",
+        "name": "Egg",
+        "quantity": 158,
+        "unit": "pcs"
+      },
+      {
+        "id": "ce8a281d-bfcf-4e33-a887-90d596b854fe",
+        "name": "Paneer",
+        "quantity": 179,
+        "unit": "g"
+      },
+      {
+        "id": "c3388e38-4849-4112-a340-8adb2ff4b258",
+        "name": "Butter",
+        "quantity": 27,
+        "unit": "g"
+      }
+    ],
+    "steps": [
+      {
+        "id": "2d98d27a-54dc-4b21-8832-ddc99593776a",
+        "description": "Prepare ingredients step 1 for grilled sandwich.",
+        "type": "instruction",
+        "durationMinutes": 4,
+        "ingredientIds": [
+          "32071545-c966-4e58-9d82-b7250cc72557"
+        ]
+      },
+      {
+        "id": "cf69a3f7-90b7-4cac-9804-554f6b12ab93",
+        "description": "Cook step 2 for grilled sandwich.",
+        "type": "cooking",
+        "durationMinutes": 7,
+        "cookingSettings": {
+          "temperature": 174,
+          "speed": 2
+        }
+      },
+      {
+        "id": "d7ed6554-f0b6-4b27-95b4-178ec83cf38a",
+        "description": "Prepare ingredients step 3 for grilled sandwich.",
+        "type": "instruction",
+        "durationMinutes": 2,
+        "ingredientIds": [
+          "32071545-c966-4e58-9d82-b7250cc72557"
+        ]
+      },
+      {
+        "id": "0367bcab-0337-45ff-a6e4-ce03a6ae9793",
+        "description": "Cook step 4 for grilled sandwich.",
+        "type": "cooking",
+        "durationMinutes": 7,
+        "cookingSettings": {
+          "temperature": 150,
+          "speed": 1
+        }
+      },
+      {
+        "id": "239bf68c-ff0d-4d42-b485-d8e55dcb551a",
+        "description": "Prepare ingredients step 5 for grilled sandwich.",
+        "type": "instruction",
+        "durationMinutes": 2,
+        "ingredientIds": [
+          "c3388e38-4849-4112-a340-8adb2ff4b258",
+          "ce8a281d-bfcf-4e33-a887-90d596b854fe"
+        ]
+      }
+    ],
+    "isFavorite": true,
+    "createdAt": "2025-10-30T11:53:26.487291",
+    "updatedAt": "2025-10-30T11:53:26.487293"
+  },
+  {
+    "id": "9b037d5f-2a2c-43f7-b74a-52bcf706333f",
+    "title": "Veg Burger",
+    "difficulty": "Hard",
+    "ingredients": [
+      {
+        "id": "f4857148-2e9e-4040-8762-c041bc221e23",
+        "name": "Coriander",
+        "quantity": 37,
+        "unit": "g"
+      },
+      {
+        "id": "d8dbcf76-f6ce-40c6-9118-066a83c2d862",
+        "name": "Tomato",
+        "quantity": 70,
+        "unit": "g"
+      },
+      {
+        "id": "9a102c4f-6cdb-4a27-9514-119365ae3d9b",
+        "name": "Onion",
+        "quantity": 168,
+        "unit": "g"
+      },
+      {
+        "id": "df3d7370-b4c0-4cc8-a428-92fcb66f2aef",
+        "name": "Garlic",
+        "quantity": 120,
+        "unit": "g"
+      },
+      {
+        "id": "9c402737-0026-4ea5-803b-82cd3a7307a4",
+        "name": "Oil",
+        "quantity": 159,
+        "unit": "ml"
+      },
+      {
+        "id": "73374afd-d00d-4b8b-bed5-a19e7fd552d6",
+        "name": "Salt",
+        "quantity": 107,
+        "unit": "g"
+      },
+      {
+        "id": "a57b7c09-634d-4c11-8dc8-283b4967f91d",
+        "name": "Flour",
+        "quantity": 162,
+        "unit": "g"
+      }
+    ],
+    "steps": [
+      {
+        "id": "535aaa15-69fa-4683-add6-215bac5efd19",
+        "description": "Prepare ingredients step 1 for veg burger.",
+        "type": "instruction",
+        "durationMinutes": 5,
+        "ingredientIds": [
+          "f4857148-2e9e-4040-8762-c041bc221e23"
+        ]
+      },
+      {
+        "id": "1f85be0b-9cdf-402d-91aa-92b9ad14a609",
+        "description": "Cook step 2 for veg burger.",
+        "type": "cooking",
+        "durationMinutes": 3,
+        "cookingSettings": {
+          "temperature": 158,
+          "speed": 3
+        }
+      },
+      {
+        "id": "12c1cb14-e172-4540-92d6-2d31510d7b95",
+        "description": "Prepare ingredients step 3 for veg burger.",
+        "type": "instruction",
+        "durationMinutes": 4,
+        "ingredientIds": [
+          "a57b7c09-634d-4c11-8dc8-283b4967f91d"
+        ]
+      },
+      {
+        "id": "4b78c120-de51-4f66-b0df-6e7ca505e7ab",
+        "description": "Cook step 4 for veg burger.",
+        "type": "cooking",
+        "durationMinutes": 7,
+        "cookingSettings": {
+          "temperature": 162,
+          "speed": 5
+        }
+      },
+      {
+        "id": "e6fdde6c-c961-4a89-8ca3-7b56fa84ba39",
+        "description": "Prepare ingredients step 5 for veg burger.",
+        "type": "instruction",
+        "durationMinutes": 3,
+        "ingredientIds": [
+          "a57b7c09-634d-4c11-8dc8-283b4967f91d",
+          "9c402737-0026-4ea5-803b-82cd3a7307a4",
+          "f4857148-2e9e-4040-8762-c041bc221e23"
+        ]
+      }
+    ],
+    "isFavorite": true,
+    "createdAt": "2025-10-30T11:53:26.487371",
+    "updatedAt": "2025-10-30T11:53:26.487373"
+  },
+  {
+    "id": "7e8f20db-75d7-4416-9b7b-21d1dd15b893",
+    "title": "Vada Pav",
+    "difficulty": "Medium",
+    "ingredients": [
+      {
+        "id": "96a28a6a-e477-4f6f-a879-bff76a0f0ed8",
+        "name": "Chili",
+        "quantity": 137,
+        "unit": "pcs"
+      },
+      {
+        "id": "78de2cf3-3d8f-49e1-9ca6-d4389b8ba71f",
+        "name": "Salt",
+        "quantity": 199,
+        "unit": "g"
+      },
+      {
+        "id": "2bb2c39c-e809-4cf8-827e-97e5528c0bdb",
+        "name": "Spices",
+        "quantity": 54,
+        "unit": "g"
+      },
+      {
+        "id": "8df5b936-7f2f-4a04-ae57-4bb9719ad726",
+        "name": "Garlic",
+        "quantity": 66,
+        "unit": "g"
+      },
+      {
+        "id": "544c871b-fbf4-4c60-ad80-49e2d9d70a2b",
+        "name": "Flour",
+        "quantity": 116,
+        "unit": "g"
+      },
+      {
+        "id": "e2cc93b0-560f-4633-8355-997cbb4bd061",
+        "name": "Cheese",
+        "quantity": 122,
+        "unit": "g"
+      },
+      {
+        "id": "898831a4-8fe4-4d17-ba4d-3feacb93d360",
+        "name": "Butter",
+        "quantity": 13,
+        "unit": "g"
+      }
+    ],
+    "steps": [
+      {
+        "id": "c7df760d-990e-4df8-bb33-fd2a1bcbf959",
+        "description": "Prepare ingredients step 1 for vada pav.",
+        "type": "instruction",
+        "durationMinutes": 4,
+        "ingredientIds": [
+          "8df5b936-7f2f-4a04-ae57-4bb9719ad726",
+          "8df5b936-7f2f-4a04-ae57-4bb9719ad726"
+        ]
+      },
+      {
+        "id": "067bae6a-326a-4cf1-8e32-d4e935b86bcf",
+        "description": "Cook step 2 for vada pav.",
+        "type": "cooking",
+        "durationMinutes": 6,
+        "cookingSettings": {
+          "temperature": 107,
+          "speed": 1
+        }
+      },
+      {
+        "id": "f1414afb-fc99-45d7-956b-8867a3260737",
+        "description": "Prepare ingredients step 3 for vada pav.",
+        "type": "instruction",
+        "durationMinutes": 5,
+        "ingredientIds": [
+          "544c871b-fbf4-4c60-ad80-49e2d9d70a2b"
+        ]
+      }
+    ],
+    "isFavorite": true,
+    "createdAt": "2025-10-30T11:53:26.487448",
+    "updatedAt": "2025-10-30T11:53:26.487451"
+  },
+  {
+    "id": "aa27e38b-25a8-4a03-adab-2114f281dda5",
+    "title": "Chilli Paneer",
+    "difficulty": "Hard",
+    "ingredients": [
+      {
+        "id": "ccae3964-631f-4ce0-bda7-f4a371572a88",
+        "name": "Milk",
+        "quantity": 117,
+        "unit": "ml"
+      },
+      {
+        "id": "cde63d6e-4518-4bb0-af32-c8dfa983feec",
+        "name": "Salt",
+        "quantity": 166,
+        "unit": "g"
+      },
+      {
+        "id": "b406a093-f1f8-45d2-a119-4258a9731d81",
+        "name": "Cheese",
+        "quantity": 84,
+        "unit": "g"
+      },
+      {
+        "id": "86b34ff8-684c-4328-b843-12cc1b96159b",
+        "name": "Chili",
+        "quantity": 99,
+        "unit": "pcs"
+      },
+      {
+        "id": "01539252-9935-46a1-b868-726d4e99e48c",
+        "name": "Vegetables",
+        "quantity": 152,
+        "unit": "g"
+      }
+    ],
+    "steps": [
+      {
+        "id": "0c8ad99c-ed88-4054-96f8-30c5fe039510",
+        "description": "Prepare ingredients step 1 for chilli paneer.",
+        "type": "instruction",
+        "durationMinutes": 3,
+        "ingredientIds": [
+          "01539252-9935-46a1-b868-726d4e99e48c",
+          "01539252-9935-46a1-b868-726d4e99e48c"
+        ]
+      },
+      {
+        "id": "84431853-824a-4740-9ba9-0eb7de873bc9",
+        "description": "Cook step 2 for chilli paneer.",
+        "type": "cooking",
+        "durationMinutes": 4,
+        "cookingSettings": {
+          "temperature": 117,
+          "speed": 3
+        }
+      },
+      {
+        "id": "b1df8a67-be2f-4611-834b-f07d4720491a",
+        "description": "Prepare ingredients step 3 for chilli paneer.",
+        "type": "instruction",
+        "durationMinutes": 5,
+        "ingredientIds": [
+          "86b34ff8-684c-4328-b843-12cc1b96159b",
+          "b406a093-f1f8-45d2-a119-4258a9731d81"
+        ]
+      },
+      {
+        "id": "2191e748-55a0-4050-a38e-cf581c7f5442",
+        "description": "Cook step 4 for chilli paneer.",
+        "type": "cooking",
+        "durationMinutes": 10,
+        "cookingSettings": {
+          "temperature": 110,
+          "speed": 4
+        }
+      }
+    ],
+    "isFavorite": false,
+    "createdAt": "2025-10-30T11:53:26.487523",
+    "updatedAt": "2025-10-30T11:53:26.487526"
+  },
+  {
+    "id": "c5aee956-6b01-4f51-8962-ec1cc5735dd0",
+    "title": "Palak Paneer",
+    "difficulty": "Hard",
+    "ingredients": [
+      {
+        "id": "d17cc238-aa94-4661-8424-bf68021b6df4",
+        "name": "Chicken",
+        "quantity": 160,
+        "unit": "g"
+      },
+      {
+        "id": "3d12bd22-4973-4a11-99d3-fb9937ecb915",
+        "name": "Egg",
+        "quantity": 84,
+        "unit": "pcs"
+      },
+      {
+        "id": "906c4aae-7491-471d-b0a2-efd02b0eeeaa",
+        "name": "Tomato",
+        "quantity": 150,
+        "unit": "g"
+      },
+      {
+        "id": "eea71ba3-d3a4-4636-b2e1-86b478c69c37",
+        "name": "Coriander",
+        "quantity": 125,
+        "unit": "g"
+      },
+      {
+        "id": "655dd260-df19-4866-a536-d9d4ee18b268",
+        "name": "Cheese",
+        "quantity": 184,
+        "unit": "g"
+      },
+      {
+        "id": "0c523213-e90b-45bb-b3e3-4e16232cdad4",
+        "name": "Flour",
+        "quantity": 98,
+        "unit": "g"
+      }
+    ],
+    "steps": [
+      {
+        "id": "85809370-a886-4e19-b51a-ccfbef51902c",
+        "description": "Prepare ingredients step 1 for palak paneer.",
+        "type": "instruction",
+        "durationMinutes": 5,
+        "ingredientIds": [
+          "3d12bd22-4973-4a11-99d3-fb9937ecb915"
+        ]
+      },
+      {
+        "id": "e4ea5464-dfcd-442f-9c18-3e3ccb1f093f",
+        "description": "Cook step 2 for palak paneer.",
+        "type": "cooking",
+        "durationMinutes": 3,
+        "cookingSettings": {
+          "temperature": 172,
+          "speed": 4
+        }
+      },
+      {
+        "id": "987856a7-8b50-4684-acdc-a68d742db54b",
+        "description": "Prepare ingredients step 3 for palak paneer.",
+        "type": "instruction",
+        "durationMinutes": 3,
+        "ingredientIds": [
+          "d17cc238-aa94-4661-8424-bf68021b6df4"
+        ]
+      },
+      {
+        "id": "4640925a-34c7-4853-badd-b5763bb12d82",
+        "description": "Cook step 4 for palak paneer.",
+        "type": "cooking",
+        "durationMinutes": 7,
+        "cookingSettings": {
+          "temperature": 159,
+          "speed": 3
+        }
+      }
+    ],
+    "isFavorite": false,
+    "createdAt": "2025-10-30T11:53:26.487592",
+    "updatedAt": "2025-10-30T11:53:26.487594"
+  },
+  {
+    "id": "cd3bbf31-8c80-4b02-a973-6babfdf0a400",
+    "title": "Masala Omelette",
+    "difficulty": "Easy",
+    "ingredients": [
+      {
+        "id": "859d6193-129d-42fd-8d5e-e0d89813ed1c",
+        "name": "Oil",
+        "quantity": 140,
+        "unit": "ml"
+      },
+      {
+        "id": "782e5802-55c4-4e84-b689-4003553e1cae",
+        "name": "Onion",
+        "quantity": 93,
+        "unit": "g"
+      },
+      {
+        "id": "beac374f-5f96-4f6a-b19f-cf18641152ee",
+        "name": "Milk",
+        "quantity": 163,
+        "unit": "ml"
+      },
+      {
+        "id": "5fb6dddb-da2b-4506-a18e-2a206d82a197",
+        "name": "Cheese",
+        "quantity": 112,
+        "unit": "g"
+      },
+      {
+        "id": "51ff8617-044c-412c-8171-c9fc24c94e85",
+        "name": "Chili",
+        "quantity": 89,
+        "unit": "pcs"
+      },
+      {
+        "id": "860db74e-8ded-4241-bcd2-9eb37eaaba3e",
+        "name": "Garlic",
+        "quantity": 94,
+        "unit": "g"
+      },
+      {
+        "id": "855117b7-a912-40d1-859c-d3bb3cccb34c",
+        "name": "Paneer",
+        "quantity": 100,
+        "unit": "g"
+      },
+      {
+        "id": "5f2deee1-508b-40f3-a5b5-f21789e8fe76",
+        "name": "Coriander",
+        "quantity": 30,
+        "unit": "g"
+      }
+    ],
+    "steps": [
+      {
+        "id": "fadb6f40-3d7e-4ecb-8bed-1c5dec3ab504",
+        "description": "Prepare ingredients step 1 for masala omelette.",
+        "type": "instruction",
+        "durationMinutes": 6,
+        "ingredientIds": [
+          "855117b7-a912-40d1-859c-d3bb3cccb34c"
+        ]
+      },
+      {
+        "id": "99a741f5-4bc4-4212-afed-b7327b4b39ef",
+        "description": "Cook step 2 for masala omelette.",
+        "type": "cooking",
+        "durationMinutes": 4,
+        "cookingSettings": {
+          "temperature": 160,
+          "speed": 5
+        }
+      },
+      {
+        "id": "6cd79f47-1c4c-49c7-a63e-cddb4068deb5",
+        "description": "Prepare ingredients step 3 for masala omelette.",
+        "type": "instruction",
+        "durationMinutes": 6,
+        "ingredientIds": [
+          "5f2deee1-508b-40f3-a5b5-f21789e8fe76"
+        ]
+      },
+      {
+        "id": "360f439a-508f-43ea-bda8-ab8f6e116055",
+        "description": "Cook step 4 for masala omelette.",
+        "type": "cooking",
+        "durationMinutes": 7,
+        "cookingSettings": {
+          "temperature": 100,
+          "speed": 2
+        }
+      },
+      {
+        "id": "67a97e1a-faa1-4c82-a7fa-a69ecdddfebb",
+        "description": "Prepare ingredients step 5 for masala omelette.",
+        "type": "instruction",
+        "durationMinutes": 6,
+        "ingredientIds": [
+          "51ff8617-044c-412c-8171-c9fc24c94e85",
+          "859d6193-129d-42fd-8d5e-e0d89813ed1c",
+          "beac374f-5f96-4f6a-b19f-cf18641152ee"
+        ]
+      }
+    ],
+    "isFavorite": false,
+    "createdAt": "2025-10-30T11:53:26.487683",
+    "updatedAt": "2025-10-30T11:53:26.487686"
+  },
+  {
+    "id": "4c425072-e445-4527-a97f-93019c5a87c8",
+    "title": "Veg Pulao",
+    "difficulty": "Hard",
+    "ingredients": [
+      {
+        "id": "94dd3e1e-c235-4b2e-94be-57f74b25960f",
+        "name": "Paneer",
+        "quantity": 196,
+        "unit": "g"
+      },
+      {
+        "id": "94e94b58-885d-4e0d-b136-f3521883131e",
+        "name": "Vegetables",
+        "quantity": 88,
+        "unit": "g"
+      },
+      {
+        "id": "61ba1508-d0a8-422b-b245-be1d64c710f4",
+        "name": "Flour",
+        "quantity": 83,
+        "unit": "g"
+      },
+      {
+        "id": "bff93f63-80b9-4005-966c-865c8d6446da",
+        "name": "Coriander",
+        "quantity": 31,
+        "unit": "g"
+      },
+      {
+        "id": "1125a8cd-8b10-42f3-9b4a-fe20bf4a501e",
+        "name": "Oil",
+        "quantity": 78,
+        "unit": "ml"
+      },
+      {
+        "id": "4f85ee57-ddcb-4b1e-9b4e-3c7145c20c25",
+        "name": "Butter",
+        "quantity": 100,
+        "unit": "g"
+      },
+      {
+        "id": "dc64129b-7bb3-48ac-a77c-cb5cd0dd44ba",
+        "name": "Onion",
+        "quantity": 87,
+        "unit": "g"
+      }
+    ],
+    "steps": [
+      {
+        "id": "d0297aac-dd2b-498f-8894-e2e8f69901ac",
+        "description": "Prepare ingredients step 1 for veg pulao.",
+        "type": "instruction",
+        "durationMinutes": 3,
+        "ingredientIds": [
+          "94dd3e1e-c235-4b2e-94be-57f74b25960f",
+          "61ba1508-d0a8-422b-b245-be1d64c710f4",
+          "94dd3e1e-c235-4b2e-94be-57f74b25960f"
+        ]
+      },
+      {
+        "id": "d34e866a-80f1-4f1b-8655-51dd3fac2338",
+        "description": "Cook step 2 for veg pulao.",
+        "type": "cooking",
+        "durationMinutes": 8,
+        "cookingSettings": {
+          "temperature": 143,
+          "speed": 5
+        }
+      },
+      {
+        "id": "6ab84fe5-6c4e-4c36-9983-caedd8380233",
+        "description": "Prepare ingredients step 3 for veg pulao.",
+        "type": "instruction",
+        "durationMinutes": 3,
+        "ingredientIds": [
+          "61ba1508-d0a8-422b-b245-be1d64c710f4"
+        ]
+      },
+      {
+        "id": "2c5fc9fe-ddf8-4356-bfbf-98e40515165c",
+        "description": "Cook step 4 for veg pulao.",
+        "type": "cooking",
+        "durationMinutes": 5,
+        "cookingSettings": {
+          "temperature": 115,
+          "speed": 3
+        }
+      },
+      {
+        "id": "264311f9-c6ee-40e3-852f-973addd96411",
+        "description": "Prepare ingredients step 5 for veg pulao.",
+        "type": "instruction",
+        "durationMinutes": 2,
+        "ingredientIds": [
+          "94e94b58-885d-4e0d-b136-f3521883131e",
+          "4f85ee57-ddcb-4b1e-9b4e-3c7145c20c25"
+        ]
+      }
+    ],
+    "isFavorite": false,
+    "createdAt": "2025-10-30T11:53:26.487770",
+    "updatedAt": "2025-10-30T11:53:26.487773"
+  },
+  {
+    "id": "8d1c9d6a-fbb6-4081-b4ba-d90b5d9e6267",
+    "title": "Paneer Butter Masala",
+    "difficulty": "Medium",
+    "ingredients": [
+      {
+        "id": "87b17b8f-1ecc-41a0-9e78-d6d7c84e3a86",
+        "name": "Ginger",
+        "quantity": 56,
+        "unit": "g"
+      },
+      {
+        "id": "e47d4139-b577-4637-94ac-f3ba8d5cd5b0",
+        "name": "Chili",
+        "quantity": 17,
+        "unit": "pcs"
+      },
+      {
+        "id": "636f3327-1ded-47fe-9178-5bc2b8072391",
+        "name": "Vegetables",
+        "quantity": 194,
+        "unit": "g"
+      },
+      {
+        "id": "8d6dd120-8081-46ca-8fcf-a4a025479453",
+        "name": "Chicken",
+        "quantity": 78,
+        "unit": "g"
+      },
+      {
+        "id": "6da33609-8c77-4b73-9a78-488298209cec",
+        "name": "Oil",
+        "quantity": 125,
+        "unit": "ml"
+      }
+    ],
+    "steps": [
+      {
+        "id": "196c0469-3e46-416c-9236-2d1df74d60c2",
+        "description": "Prepare ingredients step 1 for paneer butter masala.",
+        "type": "instruction",
+        "durationMinutes": 4,
+        "ingredientIds": [
+          "87b17b8f-1ecc-41a0-9e78-d6d7c84e3a86"
+        ]
+      },
+      {
+        "id": "2cf0e507-7541-4742-bb2e-21b2222966e6",
+        "description": "Cook step 2 for paneer butter masala.",
+        "type": "cooking",
+        "durationMinutes": 5,
+        "cookingSettings": {
+          "temperature": 155,
+          "speed": 4
+        }
+      },
+      {
+        "id": "662ebfe2-136e-4097-8f8c-36067c7feeee",
+        "description": "Prepare ingredients step 3 for paneer butter masala.",
+        "type": "instruction",
+        "durationMinutes": 6,
+        "ingredientIds": [
+          "87b17b8f-1ecc-41a0-9e78-d6d7c84e3a86"
+        ]
+      },
+      {
+        "id": "f30ce62b-383b-4170-9de2-06c1aa48fb88",
+        "description": "Cook step 4 for paneer butter masala.",
+        "type": "cooking",
+        "durationMinutes": 6,
+        "cookingSettings": {
+          "temperature": 146,
+          "speed": 2
+        }
+      },
+      {
+        "id": "7b81a50d-6b7c-4beb-b696-c5e1b14d55f8",
+        "description": "Prepare ingredients step 5 for paneer butter masala.",
+        "type": "instruction",
+        "durationMinutes": 5,
+        "ingredientIds": [
+          "6da33609-8c77-4b73-9a78-488298209cec",
+          "636f3327-1ded-47fe-9178-5bc2b8072391"
+        ]
+      }
+    ],
+    "isFavorite": false,
+    "createdAt": "2025-10-30T11:53:26.487849",
+    "updatedAt": "2025-10-30T11:53:26.487852"
+  },
+  {
+    "id": "d3ec0d82-034b-4df2-a8d2-5d0fac7ff42f",
+    "title": "Tuna Salad",
+    "difficulty": "Medium",
+    "ingredients": [
+      {
+        "id": "ac8e50bb-d073-4493-a40c-7bd67c19102a",
+        "name": "Cheese",
+        "quantity": 12,
+        "unit": "g"
+      },
+      {
+        "id": "770d87fb-8162-43e4-a525-1c3ee442f323",
+        "name": "Vegetables",
+        "quantity": 168,
+        "unit": "g"
+      },
+      {
+        "id": "04379f31-d8ef-4bd3-a650-043cbc7e5631",
+        "name": "Garlic",
+        "quantity": 76,
+        "unit": "g"
+      },
+      {
+        "id": "a33acbd1-cd1a-49ec-8e3c-b9307054908b",
+        "name": "Paneer",
+        "quantity": 109,
+        "unit": "g"
+      },
+      {
+        "id": "ba7406cf-a2ba-4d6c-be0e-5d94bff2d943",
+        "name": "Flour",
+        "quantity": 81,
+        "unit": "g"
+      },
+      {
+        "id": "f76f5205-7fbe-4afd-ae7e-21c46cf46b6d",
+        "name": "Tomato",
+        "quantity": 112,
+        "unit": "g"
+      }
+    ],
+    "steps": [
+      {
+        "id": "f442f324-c183-46cb-a876-ac13b6cd226c",
+        "description": "Prepare ingredients step 1 for tuna salad.",
+        "type": "instruction",
+        "durationMinutes": 4,
+        "ingredientIds": [
+          "04379f31-d8ef-4bd3-a650-043cbc7e5631",
+          "f76f5205-7fbe-4afd-ae7e-21c46cf46b6d",
+          "04379f31-d8ef-4bd3-a650-043cbc7e5631"
+        ]
+      },
+      {
+        "id": "bbbd9cf6-73c4-44f8-8ca4-a6350c5b1172",
+        "description": "Cook step 2 for tuna salad.",
+        "type": "cooking",
+        "durationMinutes": 4,
+        "cookingSettings": {
+          "temperature": 140,
+          "speed": 4
+        }
+      },
+      {
+        "id": "32dd32e2-9f5c-4f7f-b2c6-f74d54cf819c",
+        "description": "Prepare ingredients step 3 for tuna salad.",
+        "type": "instruction",
+        "durationMinutes": 6,
+        "ingredientIds": [
+          "ba7406cf-a2ba-4d6c-be0e-5d94bff2d943"
+        ]
+      },
+      {
+        "id": "9efcd0d9-d305-4586-80d8-15e5cf4dfb56",
+        "description": "Cook step 4 for tuna salad.",
+        "type": "cooking",
+        "durationMinutes": 6,
+        "cookingSettings": {
+          "temperature": 121,
+          "speed": 1
+        }
+      },
+      {
+        "id": "95366ff6-54ea-43d7-9de0-f62938b98865",
+        "description": "Prepare ingredients step 5 for tuna salad.",
+        "type": "instruction",
+        "durationMinutes": 6,
+        "ingredientIds": [
+          "a33acbd1-cd1a-49ec-8e3c-b9307054908b",
+          "770d87fb-8162-43e4-a525-1c3ee442f323"
+        ]
+      }
+    ],
+    "isFavorite": false,
+    "createdAt": "2025-10-30T11:53:26.487933",
+    "updatedAt": "2025-10-30T11:53:26.487936"
+  },
+  {
+    "id": "a7e01209-bdd9-4787-b9c3-37c16518d4bd",
+    "title": "Curd Rice",
+    "difficulty": "Hard",
+    "ingredients": [
+      {
+        "id": "36550c40-0943-4a98-a507-910ae5174c58",
+        "name": "Spices",
+        "quantity": 154,
+        "unit": "g"
+      },
+      {
+        "id": "ad367723-aa10-48f7-891a-77b927c00ba9",
+        "name": "Vegetables",
+        "quantity": 111,
+        "unit": "g"
+      },
+      {
+        "id": "728c3a5e-f72f-49a7-a675-707d403d96a0",
+        "name": "Cheese",
+        "quantity": 176,
+        "unit": "g"
+      },
+      {
+        "id": "3ee1867c-1321-45ca-8622-81e861ea6ee6",
+        "name": "Butter",
+        "quantity": 134,
+        "unit": "g"
+      },
+      {
+        "id": "8e366957-9a13-416a-b329-ac936e6d2456",
+        "name": "Oil",
+        "quantity": 177,
+        "unit": "ml"
+      },
+      {
+        "id": "b0027a21-7db7-4f47-9ec4-1dc81a9caa76",
+        "name": "Tomato",
+        "quantity": 191,
+        "unit": "g"
+      },
+      {
+        "id": "95d876c9-9f4d-4a42-925a-0d616ed158d9",
+        "name": "Chicken",
+        "quantity": 63,
+        "unit": "g"
+      },
+      {
+        "id": "6a88fcee-eaad-48b5-a714-fa1ec75b9134",
+        "name": "Salt",
+        "quantity": 51,
+        "unit": "g"
+      }
+    ],
+    "steps": [
+      {
+        "id": "4e9863db-6a35-4f1e-aae3-07314c0a5c4d",
+        "description": "Prepare ingredients step 1 for curd rice.",
+        "type": "instruction",
+        "durationMinutes": 6,
+        "ingredientIds": [
+          "36550c40-0943-4a98-a507-910ae5174c58"
+        ]
+      },
+      {
+        "id": "29053baa-4575-4257-a993-fdfb71db85a8",
+        "description": "Cook step 2 for curd rice.",
+        "type": "cooking",
+        "durationMinutes": 3,
+        "cookingSettings": {
+          "temperature": 151,
+          "speed": 5
+        }
+      },
+      {
+        "id": "1255c73a-af8c-4112-b465-43a234a593a7",
+        "description": "Prepare ingredients step 3 for curd rice.",
+        "type": "instruction",
+        "durationMinutes": 5,
+        "ingredientIds": [
+          "6a88fcee-eaad-48b5-a714-fa1ec75b9134",
+          "3ee1867c-1321-45ca-8622-81e861ea6ee6",
+          "36550c40-0943-4a98-a507-910ae5174c58"
+        ]
+      },
+      {
+        "id": "6ad14273-7301-4516-be18-69d7df1e356e",
+        "description": "Cook step 4 for curd rice.",
+        "type": "cooking",
+        "durationMinutes": 5,
+        "cookingSettings": {
+          "temperature": 109,
+          "speed": 5
+        }
+      }
+    ],
+    "isFavorite": false,
+    "createdAt": "2025-10-30T11:53:26.488016",
+    "updatedAt": "2025-10-30T11:53:26.488018"
+  },
+  {
+    "id": "4a6268c0-78be-48e8-9609-48dec49c2ae9",
+    "title": "Chicken Curry",
+    "difficulty": "Hard",
+    "ingredients": [
+      {
+        "id": "011afc1f-c1a3-47eb-a80f-71637e369c71",
+        "name": "Tomato",
+        "quantity": 188,
+        "unit": "g"
+      },
+      {
+        "id": "1d59e428-3740-4fe2-8dc7-a0ace4af6642",
+        "name": "Flour",
+        "quantity": 15,
+        "unit": "g"
+      },
+      {
+        "id": "f2099684-68cf-4efd-8599-d4302a2178d9",
+        "name": "Ginger",
+        "quantity": 25,
+        "unit": "g"
+      },
+      {
+        "id": "3eb9263b-56de-40dd-9248-52adf92b2c2c",
+        "name": "Coriander",
+        "quantity": 99,
+        "unit": "g"
+      },
+      {
+        "id": "528edab2-8b30-46ff-ac0e-271207d86b4a",
+        "name": "Egg",
+        "quantity": 152,
+        "unit": "pcs"
+      },
+      {
+        "id": "b8b815ef-2fbc-4975-86f4-47d72324c3fd",
+        "name": "Cheese",
+        "quantity": 42,
+        "unit": "g"
+      },
+      {
+        "id": "0faf921a-8b2c-4fc6-b057-dd419d71c209",
+        "name": "Pepper",
+        "quantity": 193,
+        "unit": "g"
+      },
+      {
+        "id": "df0e30db-00aa-4bc6-bed9-9d76fb62b39e",
+        "name": "Butter",
+        "quantity": 81,
+        "unit": "g"
+      }
+    ],
+    "steps": [
+      {
+        "id": "d14e418f-44ce-4ce6-9e63-befc11d7cc2e",
+        "description": "Prepare ingredients step 1 for chicken curry.",
+        "type": "instruction",
+        "durationMinutes": 4,
+        "ingredientIds": [
+          "0faf921a-8b2c-4fc6-b057-dd419d71c209",
+          "1d59e428-3740-4fe2-8dc7-a0ace4af6642",
+          "0faf921a-8b2c-4fc6-b057-dd419d71c209"
+        ]
+      },
+      {
+        "id": "998a2b9a-8564-4541-a67c-1d3b1d469bf1",
+        "description": "Cook step 2 for chicken curry.",
+        "type": "cooking",
+        "durationMinutes": 7,
+        "cookingSettings": {
+          "temperature": 117,
+          "speed": 4
+        }
+      },
+      {
+        "id": "60abfd2f-6f13-4fbd-a193-ad1ec7730666",
+        "description": "Prepare ingredients step 3 for chicken curry.",
+        "type": "instruction",
+        "durationMinutes": 6,
+        "ingredientIds": [
+          "528edab2-8b30-46ff-ac0e-271207d86b4a",
+          "528edab2-8b30-46ff-ac0e-271207d86b4a",
+          "b8b815ef-2fbc-4975-86f4-47d72324c3fd"
+        ]
+      },
+      {
+        "id": "ea3f6584-d729-4003-9af1-fec966d5c081",
+        "description": "Cook step 4 for chicken curry.",
+        "type": "cooking",
+        "durationMinutes": 5,
+        "cookingSettings": {
+          "temperature": 147,
+          "speed": 5
+        }
+      }
+    ],
+    "isFavorite": false,
+    "createdAt": "2025-10-30T11:53:26.488104",
+    "updatedAt": "2025-10-30T11:53:26.488106"
+  },
+  {
+    "id": "f02ee162-e86d-4f3b-9c8e-b861d33686db",
+    "title": "Upma",
+    "difficulty": "Hard",
+    "ingredients": [
+      {
+        "id": "c4689f1f-37f7-4007-9867-a422e6c6e698",
+        "name": "Butter",
+        "quantity": 76,
+        "unit": "g"
+      },
+      {
+        "id": "0e0b0bf6-4f65-443c-b43e-01927f62b1a8",
+        "name": "Oil",
+        "quantity": 170,
+        "unit": "ml"
+      },
+      {
+        "id": "7bb70e15-401c-420f-8f18-a922a1f10c0f",
+        "name": "Cheese",
+        "quantity": 193,
+        "unit": "g"
+      },
+      {
+        "id": "37665f23-b19c-441a-89b1-dbb52ac8c0cd",
+        "name": "Flour",
+        "quantity": 113,
+        "unit": "g"
+      },
+      {
+        "id": "1716ff0c-8956-4507-9c96-fb53bbc0537c",
+        "name": "Vegetables",
+        "quantity": 44,
+        "unit": "g"
+      },
+      {
+        "id": "189cb908-255b-4039-b679-28185499b1e2",
+        "name": "Onion",
+        "quantity": 129,
+        "unit": "g"
+      },
+      {
+        "id": "197b2317-ddcd-444f-8f08-51990445cae7",
+        "name": "Paneer",
+        "quantity": 73,
+        "unit": "g"
+      }
+    ],
+    "steps": [
+      {
+        "id": "567ac941-838f-41e3-ad44-18e1e1bc58e5",
+        "description": "Prepare ingredients step 1 for upma.",
+        "type": "instruction",
+        "durationMinutes": 5,
+        "ingredientIds": [
+          "197b2317-ddcd-444f-8f08-51990445cae7"
+        ]
+      },
+      {
+        "id": "38618a50-9b9e-4124-8528-2cb067450ff3",
+        "description": "Cook step 2 for upma.",
+        "type": "cooking",
+        "durationMinutes": 3,
+        "cookingSettings": {
+          "temperature": 167,
+          "speed": 1
+        }
+      },
+      {
+        "id": "ea4ad5a4-d9aa-46b8-b156-7870834ea32c",
+        "description": "Prepare ingredients step 3 for upma.",
+        "type": "instruction",
+        "durationMinutes": 6,
+        "ingredientIds": [
+          "37665f23-b19c-441a-89b1-dbb52ac8c0cd",
+          "7bb70e15-401c-420f-8f18-a922a1f10c0f"
+        ]
+      }
+    ],
+    "isFavorite": false,
+    "createdAt": "2025-10-30T11:53:26.488217",
+    "updatedAt": "2025-10-30T11:53:26.488223"
+  },
+  {
+    "id": "5584dc3a-1122-49c5-8069-fd621a255480",
+    "title": "French Toast",
+    "difficulty": "Hard",
+    "ingredients": [
+      {
+        "id": "2085d7fa-3af8-4a28-a7a4-4421251ac98d",
+        "name": "Paneer",
+        "quantity": 120,
+        "unit": "g"
+      },
+      {
+        "id": "a64b2a3d-187f-4c33-8430-d2b671e318c3",
+        "name": "Garlic",
+        "quantity": 142,
+        "unit": "g"
+      },
+      {
+        "id": "ced00910-166f-43c7-8900-fd3e1632f2e4",
+        "name": "Chicken",
+        "quantity": 97,
+        "unit": "g"
+      },
+      {
+        "id": "c1e5bd5e-e620-4446-a9d0-20885e20c9ad",
+        "name": "Oil",
+        "quantity": 27,
+        "unit": "ml"
+      },
+      {
+        "id": "7f81197f-cb0d-482e-9a62-8842c2f175af",
+        "name": "Chili",
+        "quantity": 105,
+        "unit": "pcs"
+      }
+    ],
+    "steps": [
+      {
+        "id": "8aa02ae2-2978-409e-aa26-3dd9996cc547",
+        "description": "Prepare ingredients step 1 for french toast.",
+        "type": "instruction",
+        "durationMinutes": 3,
+        "ingredientIds": [
+          "a64b2a3d-187f-4c33-8430-d2b671e318c3",
+          "c1e5bd5e-e620-4446-a9d0-20885e20c9ad",
+          "c1e5bd5e-e620-4446-a9d0-20885e20c9ad"
+        ]
+      },
+      {
+        "id": "05557d07-5f0e-46e3-b1e0-d8e6f8cacc3c",
+        "description": "Cook step 2 for french toast.",
+        "type": "cooking",
+        "durationMinutes": 10,
+        "cookingSettings": {
+          "temperature": 162,
+          "speed": 5
+        }
+      },
+      {
+        "id": "d5219d0a-82dd-444b-ae63-2c2894ad1393",
+        "description": "Prepare ingredients step 3 for french toast.",
+        "type": "instruction",
+        "durationMinutes": 5,
+        "ingredientIds": [
+          "a64b2a3d-187f-4c33-8430-d2b671e318c3",
+          "ced00910-166f-43c7-8900-fd3e1632f2e4",
+          "c1e5bd5e-e620-4446-a9d0-20885e20c9ad"
+        ]
+      },
+      {
+        "id": "fa597ba7-d3b5-4a61-95d5-53b0b7e47927",
+        "description": "Cook step 4 for french toast.",
+        "type": "cooking",
+        "durationMinutes": 8,
+        "cookingSettings": {
+          "temperature": 148,
+          "speed": 2
+        }
+      },
+      {
+        "id": "b36e8d55-5c03-4e70-8c15-ef89212e347c",
+        "description": "Prepare ingredients step 5 for french toast.",
+        "type": "instruction",
+        "durationMinutes": 4,
+        "ingredientIds": [
+          "7f81197f-cb0d-482e-9a62-8842c2f175af",
+          "7f81197f-cb0d-482e-9a62-8842c2f175af"
+        ]
+      }
+    ],
+    "isFavorite": true,
+    "createdAt": "2025-10-30T11:53:26.488374",
+    "updatedAt": "2025-10-30T11:53:26.488378"
+  },
+  {
+    "id": "8d25462e-2d78-46c2-a42c-3ebfc6de1f8e",
+    "title": "Lemon Rice",
+    "difficulty": "Hard",
+    "ingredients": [
+      {
+        "id": "9c8fb07b-2fcb-4d85-bb65-fba677fd40de",
+        "name": "Rice",
+        "quantity": 194,
+        "unit": "g"
+      },
+      {
+        "id": "aa634371-4237-4542-9411-a998bbb4a2db",
+        "name": "Spices",
+        "quantity": 173,
+        "unit": "g"
+      },
+      {
+        "id": "3ec5682a-02a5-4dab-bf85-9b39d9cd443a",
+        "name": "Chicken",
+        "quantity": 168,
+        "unit": "g"
+      },
+      {
+        "id": "56cc6fb4-ee3b-4ec5-9fb2-d39c59b1f631",
+        "name": "Butter",
+        "quantity": 126,
+        "unit": "g"
+      },
+      {
+        "id": "bab1b81b-efcc-4170-938a-d406a40cbddd",
+        "name": "Vegetables",
+        "quantity": 26,
+        "unit": "g"
+      }
+    ],
+    "steps": [
+      {
+        "id": "412db1cd-308f-478e-88a1-dbb14b8c0a28",
+        "description": "Prepare ingredients step 1 for lemon rice.",
+        "type": "instruction",
+        "durationMinutes": 4,
+        "ingredientIds": [
+          "3ec5682a-02a5-4dab-bf85-9b39d9cd443a",
+          "3ec5682a-02a5-4dab-bf85-9b39d9cd443a"
+        ]
+      },
+      {
+        "id": "b0c050fd-e044-4277-a6e4-8a1d4ef8636a",
+        "description": "Cook step 2 for lemon rice.",
+        "type": "cooking",
+        "durationMinutes": 5,
+        "cookingSettings": {
+          "temperature": 142,
+          "speed": 4
+        }
+      },
+      {
+        "id": "2af639ab-0149-463a-8da5-e6a0c4d3ff89",
+        "description": "Prepare ingredients step 3 for lemon rice.",
+        "type": "instruction",
+        "durationMinutes": 3,
+        "ingredientIds": [
+          "56cc6fb4-ee3b-4ec5-9fb2-d39c59b1f631",
+          "9c8fb07b-2fcb-4d85-bb65-fba677fd40de",
+          "56cc6fb4-ee3b-4ec5-9fb2-d39c59b1f631"
+        ]
+      }
+    ],
+    "isFavorite": true,
+    "createdAt": "2025-10-30T11:53:26.488458",
+    "updatedAt": "2025-10-30T11:53:26.488461"
+  },
+  {
+    "id": "53ecbe61-30ae-4f6d-ac98-89ea0283f4c7",
+    "title": "Rajma Chawal",
+    "difficulty": "Hard",
+    "ingredients": [
+      {
+        "id": "dc0fbe1c-f4e4-4282-9178-95aaf63da258",
+        "name": "Flour",
+        "quantity": 97,
+        "unit": "g"
+      },
+      {
+        "id": "06cb43db-0789-4ac0-9f58-51a8e1eae1c9",
+        "name": "Spices",
+        "quantity": 187,
+        "unit": "g"
+      },
+      {
+        "id": "1b19efbf-9f19-4b83-912c-e875e08dde05",
+        "name": "Oil",
+        "quantity": 173,
+        "unit": "ml"
+      },
+      {
+        "id": "bc8d993d-b21b-48e3-b38f-1370711eeba6",
+        "name": "Coriander",
+        "quantity": 31,
+        "unit": "g"
+      },
+      {
+        "id": "1bdabe54-1f7e-4e2d-b03d-149f9510f66c",
+        "name": "Milk",
+        "quantity": 14,
+        "unit": "ml"
+      },
+      {
+        "id": "ad615ce7-6cc9-4e91-a0ed-2e31eac5ed21",
+        "name": "Ginger",
+        "quantity": 117,
+        "unit": "g"
+      },
+      {
+        "id": "3ea7e272-af14-4638-aeb8-0dc4f0c14675",
+        "name": "Onion",
+        "quantity": 108,
+        "unit": "g"
+      }
+    ],
+    "steps": [
+      {
+        "id": "795f2c3c-5b0e-49f3-a7b3-9340089fef4f",
+        "description": "Prepare ingredients step 1 for rajma chawal.",
+        "type": "instruction",
+        "durationMinutes": 6,
+        "ingredientIds": [
+          "3ea7e272-af14-4638-aeb8-0dc4f0c14675"
+        ]
+      },
+      {
+        "id": "53e16957-1e90-4fa9-b21e-cd09178d12dd",
+        "description": "Cook step 2 for rajma chawal.",
+        "type": "cooking",
+        "durationMinutes": 4,
+        "cookingSettings": {
+          "temperature": 161,
+          "speed": 3
+        }
+      },
+      {
+        "id": "8e62f1e5-c28c-448d-862c-f7fab411ce5c",
+        "description": "Prepare ingredients step 3 for rajma chawal.",
+        "type": "instruction",
+        "durationMinutes": 2,
+        "ingredientIds": [
+          "ad615ce7-6cc9-4e91-a0ed-2e31eac5ed21",
+          "06cb43db-0789-4ac0-9f58-51a8e1eae1c9",
+          "bc8d993d-b21b-48e3-b38f-1370711eeba6"
+        ]
+      },
+      {
+        "id": "e4898721-8575-4abe-b94e-3c3393f4001b",
+        "description": "Cook step 4 for rajma chawal.",
+        "type": "cooking",
+        "durationMinutes": 6,
+        "cookingSettings": {
+          "temperature": 115,
+          "speed": 1
+        }
+      },
+      {
+        "id": "ac7002ec-42f4-4e6c-8251-cd2b60acb674",
+        "description": "Prepare ingredients step 5 for rajma chawal.",
+        "type": "instruction",
+        "durationMinutes": 4,
+        "ingredientIds": [
+          "1b19efbf-9f19-4b83-912c-e875e08dde05"
+        ]
+      }
+    ],
+    "isFavorite": true,
+    "createdAt": "2025-10-30T11:53:26.488542",
+    "updatedAt": "2025-10-30T11:53:26.488544"
+  },
+  {
+    "id": "1c68a3ae-4253-4326-947e-2d6283f8dba3",
+    "title": "Gobi Manchurian",
+    "difficulty": "Medium",
+    "ingredients": [
+      {
+        "id": "cf52367f-6f8c-4d29-863d-ba04ecf6fe43",
+        "name": "Vegetables",
+        "quantity": 98,
+        "unit": "g"
+      },
+      {
+        "id": "2f549d05-6f26-4177-98ee-480e12d066ee",
+        "name": "Paneer",
+        "quantity": 81,
+        "unit": "g"
+      },
+      {
+        "id": "59afe707-2dcb-4056-b9dd-3366bad7574d",
+        "name": "Oil",
+        "quantity": 109,
+        "unit": "ml"
+      },
+      {
+        "id": "7d233a10-a06a-4d6f-b6c7-6a30bf298d60",
+        "name": "Butter",
+        "quantity": 84,
+        "unit": "g"
+      },
+      {
+        "id": "e159f0ab-6f94-42e1-aece-bb4ee2ee5423",
+        "name": "Garlic",
+        "quantity": 67,
+        "unit": "g"
+      },
+      {
+        "id": "771847ca-05b3-45f2-b06c-c3d10b74af42",
+        "name": "Chicken",
+        "quantity": 176,
+        "unit": "g"
+      },
+      {
+        "id": "a1698667-d082-4cd1-8614-657fc56a2050",
+        "name": "Milk",
+        "quantity": 110,
+        "unit": "ml"
+      }
+    ],
+    "steps": [
+      {
+        "id": "e433e3a6-b881-4574-b50f-62a0f556cd13",
+        "description": "Prepare ingredients step 1 for gobi manchurian.",
+        "type": "instruction",
+        "durationMinutes": 4,
+        "ingredientIds": [
+          "59afe707-2dcb-4056-b9dd-3366bad7574d"
+        ]
+      },
+      {
+        "id": "94ba87e2-aedd-488e-8382-934fb8e379b2",
+        "description": "Cook step 2 for gobi manchurian.",
+        "type": "cooking",
+        "durationMinutes": 5,
+        "cookingSettings": {
+          "temperature": 134,
+          "speed": 3
+        }
+      },
+      {
+        "id": "d8dd5883-ff61-4aa1-a0c4-c89a2159ac4f",
+        "description": "Prepare ingredients step 3 for gobi manchurian.",
+        "type": "instruction",
+        "durationMinutes": 5,
+        "ingredientIds": [
+          "59afe707-2dcb-4056-b9dd-3366bad7574d",
+          "771847ca-05b3-45f2-b06c-c3d10b74af42",
+          "59afe707-2dcb-4056-b9dd-3366bad7574d"
+        ]
+      },
+      {
+        "id": "5caa83ad-b02b-4527-b3b5-cc7b95b8e231",
+        "description": "Cook step 4 for gobi manchurian.",
+        "type": "cooking",
+        "durationMinutes": 9,
+        "cookingSettings": {
+          "temperature": 177,
+          "speed": 3
+        }
+      },
+      {
+        "id": "aed64826-707a-47ba-b09e-cea1d0ecbc3e",
+        "description": "Prepare ingredients step 5 for gobi manchurian.",
+        "type": "instruction",
+        "durationMinutes": 4,
+        "ingredientIds": [
+          "e159f0ab-6f94-42e1-aece-bb4ee2ee5423",
+          "7d233a10-a06a-4d6f-b6c7-6a30bf298d60"
+        ]
+      }
+    ],
+    "isFavorite": true,
+    "createdAt": "2025-10-30T11:53:26.488623",
+    "updatedAt": "2025-10-30T11:53:26.488626"
+  },
+  {
+    "id": "ebd0462c-152f-4f6b-9bf5-a0ecac94d448",
+    "title": "Paneer Tikka",
+    "difficulty": "Easy",
+    "ingredients": [
+      {
+        "id": "53180fc2-7c9c-4b80-97e5-bc23f324d604",
+        "name": "Tomato",
+        "quantity": 19,
+        "unit": "g"
+      },
+      {
+        "id": "1796cec6-bf2e-4968-af5a-d0dac1b53190",
+        "name": "Pepper",
+        "quantity": 174,
+        "unit": "g"
+      },
+      {
+        "id": "29702df8-8fbb-4ac6-881e-47e594c6f768",
+        "name": "Flour",
+        "quantity": 72,
+        "unit": "g"
+      },
+      {
+        "id": "99067f10-d052-4727-938c-654d67ada370",
+        "name": "Vegetables",
+        "quantity": 154,
+        "unit": "g"
+      },
+      {
+        "id": "48cc55d4-e74c-479d-a64a-eca27ecdb0c3",
+        "name": "Onion",
+        "quantity": 99,
+        "unit": "g"
+      },
+      {
+        "id": "b355fb79-75f2-4cb4-8449-ed5f0f8b8c7a",
+        "name": "Oil",
+        "quantity": 181,
+        "unit": "ml"
+      },
+      {
+        "id": "a3a6f7eb-07b4-49d6-876c-5e3627dcfdb9",
+        "name": "Chicken",
+        "quantity": 119,
+        "unit": "g"
+      },
+      {
+        "id": "c571cf06-3534-4b40-be22-4b112c67eaa7",
+        "name": "Spices",
+        "quantity": 103,
+        "unit": "g"
+      }
+    ],
+    "steps": [
+      {
+        "id": "e6765a43-8860-4ba0-a370-9f4d55da822d",
+        "description": "Prepare ingredients step 1 for paneer tikka.",
+        "type": "instruction",
+        "durationMinutes": 2,
+        "ingredientIds": [
+          "a3a6f7eb-07b4-49d6-876c-5e3627dcfdb9",
+          "c571cf06-3534-4b40-be22-4b112c67eaa7",
+          "53180fc2-7c9c-4b80-97e5-bc23f324d604"
+        ]
+      },
+      {
+        "id": "d3d5994e-c459-4d01-9ebb-0b4df97803ce",
+        "description": "Cook step 2 for paneer tikka.",
+        "type": "cooking",
+        "durationMinutes": 8,
+        "cookingSettings": {
+          "temperature": 153,
+          "speed": 4
+        }
+      },
+      {
+        "id": "a7588a42-a72c-4881-b184-5c3cfeef20d1",
+        "description": "Prepare ingredients step 3 for paneer tikka.",
+        "type": "instruction",
+        "durationMinutes": 4,
+        "ingredientIds": [
+          "48cc55d4-e74c-479d-a64a-eca27ecdb0c3",
+          "48cc55d4-e74c-479d-a64a-eca27ecdb0c3"
+        ]
+      },
+      {
+        "id": "00e2692c-6aa1-4d05-9075-4a92c3e1839e",
+        "description": "Cook step 4 for paneer tikka.",
+        "type": "cooking",
+        "durationMinutes": 4,
+        "cookingSettings": {
+          "temperature": 127,
+          "speed": 3
+        }
+      },
+      {
+        "id": "81d0dda7-6f4e-4736-ae76-839e5f33f07e",
+        "description": "Prepare ingredients step 5 for paneer tikka.",
+        "type": "instruction",
+        "durationMinutes": 6,
+        "ingredientIds": [
+          "99067f10-d052-4727-938c-654d67ada370",
+          "53180fc2-7c9c-4b80-97e5-bc23f324d604"
+        ]
+      }
+    ],
+    "isFavorite": false,
+    "createdAt": "2025-10-30T11:53:26.488714",
+    "updatedAt": "2025-10-30T11:53:26.488717"
+  },
+  {
+    "id": "eade1d73-c319-43f7-b1b4-3950e0c1cf9d",
+    "title": "Butter Chicken",
+    "difficulty": "Hard",
+    "ingredients": [
+      {
+        "id": "a34a60cf-1fc4-4b51-a431-6f9572f5d77b",
+        "name": "Onion",
+        "quantity": 88,
+        "unit": "g"
+      },
+      {
+        "id": "b446ce06-ddb4-4973-b46d-86d7c42c87a8",
+        "name": "Tomato",
+        "quantity": 139,
+        "unit": "g"
+      },
+      {
+        "id": "bcc0b3b9-da82-4805-b9cf-b742447d9cf6",
+        "name": "Ginger",
+        "quantity": 21,
+        "unit": "g"
+      },
+      {
+        "id": "dfb3c2fd-d932-4474-b5e1-c72aaf6e106a",
+        "name": "Rice",
+        "quantity": 65,
+        "unit": "g"
+      },
+      {
+        "id": "a0ab7ca4-1b7c-497a-9c79-6ea64b85cd39",
+        "name": "Paneer",
+        "quantity": 105,
+        "unit": "g"
+      },
+      {
+        "id": "7a7a60a9-000c-4180-99a0-09ab5a3fc03d",
+        "name": "Cheese",
+        "quantity": 156,
+        "unit": "g"
+      }
+    ],
+    "steps": [
+      {
+        "id": "57a46a6e-1ff1-4f8b-a243-9e20a34878fb",
+        "description": "Prepare ingredients step 1 for butter chicken.",
+        "type": "instruction",
+        "durationMinutes": 4,
+        "ingredientIds": [
+          "b446ce06-ddb4-4973-b46d-86d7c42c87a8"
+        ]
+      },
+      {
+        "id": "80e8820b-d1c5-4aea-8965-b95da86528a7",
+        "description": "Cook step 2 for butter chicken.",
+        "type": "cooking",
+        "durationMinutes": 6,
+        "cookingSettings": {
+          "temperature": 149,
+          "speed": 3
+        }
+      },
+      {
+        "id": "0ab5900b-f323-48f8-ba27-a68a642f2e92",
+        "description": "Prepare ingredients step 3 for butter chicken.",
+        "type": "instruction",
+        "durationMinutes": 4,
+        "ingredientIds": [
+          "bcc0b3b9-da82-4805-b9cf-b742447d9cf6",
+          "b446ce06-ddb4-4973-b46d-86d7c42c87a8",
+          "dfb3c2fd-d932-4474-b5e1-c72aaf6e106a"
+        ]
+      },
+      {
+        "id": "76fdec24-1434-43cc-a1d5-5007cbef8418",
+        "description": "Cook step 4 for butter chicken.",
+        "type": "cooking",
+        "durationMinutes": 9,
+        "cookingSettings": {
+          "temperature": 163,
+          "speed": 2
+        }
+      }
+    ],
+    "isFavorite": false,
+    "createdAt": "2025-10-30T11:53:26.488798",
+    "updatedAt": "2025-10-30T11:53:26.488801"
+  },
+  {
+    "id": "bd008b26-ae98-4247-9167-8b9639df0964",
+    "title": "Veg Soup",
+    "difficulty": "Easy",
+    "ingredients": [
+      {
+        "id": "31c1ef9d-ec69-4ad8-8fce-c894b9cc0057",
+        "name": "Vegetables",
+        "quantity": 39,
+        "unit": "g"
+      },
+      {
+        "id": "c0e6ee17-4350-4fb4-9a4b-18b67c1263c7",
+        "name": "Spices",
+        "quantity": 61,
+        "unit": "g"
+      },
+      {
+        "id": "56b30a77-1e86-4532-a005-b69fa0c94b2e",
+        "name": "Pepper",
+        "quantity": 56,
+        "unit": "g"
+      },
+      {
+        "id": "4ebaec6b-9ad2-4a70-bc73-62b362942bef",
+        "name": "Butter",
+        "quantity": 127,
+        "unit": "g"
+      },
+      {
+        "id": "6d158dae-f987-4798-91ea-31a1a1c653f3",
+        "name": "Paneer",
+        "quantity": 31,
+        "unit": "g"
+      },
+      {
+        "id": "f3871f3f-73b3-4ec1-86dd-54d680d11c82",
+        "name": "Rice",
+        "quantity": 61,
+        "unit": "g"
+      }
+    ],
+    "steps": [
+      {
+        "id": "6b031655-dae4-4bf1-9f3f-f84b9a597e3b",
+        "description": "Prepare ingredients step 1 for veg soup.",
+        "type": "instruction",
+        "durationMinutes": 4,
+        "ingredientIds": [
+          "c0e6ee17-4350-4fb4-9a4b-18b67c1263c7",
+          "4ebaec6b-9ad2-4a70-bc73-62b362942bef"
+        ]
+      },
+      {
+        "id": "efa965cd-845e-4d93-bc1b-3d2901cdf1bb",
+        "description": "Cook step 2 for veg soup.",
+        "type": "cooking",
+        "durationMinutes": 4,
+        "cookingSettings": {
+          "temperature": 155,
+          "speed": 2
+        }
+      },
+      {
+        "id": "3fef0c3c-528d-4a4b-801e-470d24fa06b2",
+        "description": "Prepare ingredients step 3 for veg soup.",
+        "type": "instruction",
+        "durationMinutes": 3,
+        "ingredientIds": [
+          "31c1ef9d-ec69-4ad8-8fce-c894b9cc0057",
+          "6d158dae-f987-4798-91ea-31a1a1c653f3"
+        ]
+      },
+      {
+        "id": "15c3fe12-68aa-40ba-886b-adf79043adbc",
+        "description": "Cook step 4 for veg soup.",
+        "type": "cooking",
+        "durationMinutes": 9,
+        "cookingSettings": {
+          "temperature": 166,
+          "speed": 4
+        }
+      },
+      {
+        "id": "bbf22c03-428f-4358-af30-38cb3aad6081",
+        "description": "Prepare ingredients step 5 for veg soup.",
+        "type": "instruction",
+        "durationMinutes": 2,
+        "ingredientIds": [
+          "4ebaec6b-9ad2-4a70-bc73-62b362942bef",
+          "56b30a77-1e86-4532-a005-b69fa0c94b2e"
+        ]
+      }
+    ],
+    "isFavorite": true,
+    "createdAt": "2025-10-30T11:53:26.488874",
+    "updatedAt": "2025-10-30T11:53:26.488877"
+  },
+  {
+    "id": "c610abfe-36f5-4437-9273-79618dc16277",
+    "title": "Egg Curry",
+    "difficulty": "Hard",
+    "ingredients": [
+      {
+        "id": "30cc2450-103d-4a1c-838e-54bc78419fb4",
+        "name": "Salt",
+        "quantity": 96,
+        "unit": "g"
+      },
+      {
+        "id": "37074603-808d-4791-83c1-4b5412866057",
+        "name": "Rice",
+        "quantity": 48,
+        "unit": "g"
+      },
+      {
+        "id": "b019f5c2-80b9-4696-be2b-8e4a62ba37b5",
+        "name": "Coriander",
+        "quantity": 186,
+        "unit": "g"
+      },
+      {
+        "id": "23c16161-27dd-4def-9517-eee67f9571fb",
+        "name": "Vegetables",
+        "quantity": 106,
+        "unit": "g"
+      },
+      {
+        "id": "a311d8f8-37ad-4bf7-aefc-b301a7c3dfbe",
+        "name": "Milk",
+        "quantity": 189,
+        "unit": "ml"
+      },
+      {
+        "id": "d359c893-b2de-4cf1-b111-5a53cd01fc91",
+        "name": "Garlic",
+        "quantity": 100,
+        "unit": "g"
+      },
+      {
+        "id": "0afe42db-60aa-4ec0-8959-0a692a5e39ca",
+        "name": "Paneer",
+        "quantity": 64,
+        "unit": "g"
+      }
+    ],
+    "steps": [
+      {
+        "id": "c5dbcfc9-5bf5-4d86-9a91-3092951f6ae3",
+        "description": "Prepare ingredients step 1 for egg curry.",
+        "type": "instruction",
+        "durationMinutes": 5,
+        "ingredientIds": [
+          "a311d8f8-37ad-4bf7-aefc-b301a7c3dfbe"
+        ]
+      },
+      {
+        "id": "fa04c9db-f3a7-4a75-8022-9ceea4354110",
+        "description": "Cook step 2 for egg curry.",
+        "type": "cooking",
+        "durationMinutes": 10,
+        "cookingSettings": {
+          "temperature": 108,
+          "speed": 1
+        }
+      },
+      {
+        "id": "1d7f569f-8fd3-4a44-9548-db09c1860788",
+        "description": "Prepare ingredients step 3 for egg curry.",
+        "type": "instruction",
+        "durationMinutes": 3,
+        "ingredientIds": [
+          "23c16161-27dd-4def-9517-eee67f9571fb",
+          "0afe42db-60aa-4ec0-8959-0a692a5e39ca",
+          "a311d8f8-37ad-4bf7-aefc-b301a7c3dfbe"
+        ]
+      },
+      {
+        "id": "e6d1e4bd-0b14-45eb-aa86-c18ae012fb4d",
+        "description": "Cook step 4 for egg curry.",
+        "type": "cooking",
+        "durationMinutes": 7,
+        "cookingSettings": {
+          "temperature": 174,
+          "speed": 1
+        }
+      }
+    ],
+    "isFavorite": false,
+    "createdAt": "2025-10-30T11:53:26.488977",
+    "updatedAt": "2025-10-30T11:53:26.488980"
+  },
+  {
+    "id": "af694664-cec5-4fca-a757-6e9b2fabbc29",
+    "title": "Mutton Rogan Josh",
+    "difficulty": "Hard",
+    "ingredients": [
+      {
+        "id": "9cb0a323-e6bb-46d3-8044-d60debbb1e49",
+        "name": "Butter",
+        "quantity": 12,
+        "unit": "g"
+      },
+      {
+        "id": "012258ee-14f5-4d0f-89e3-ef7c7b5875a3",
+        "name": "Tomato",
+        "quantity": 63,
+        "unit": "g"
+      },
+      {
+        "id": "b95a097b-a292-4589-ba2c-05dce37b81af",
+        "name": "Flour",
+        "quantity": 40,
+        "unit": "g"
+      },
+      {
+        "id": "67780868-b8ce-488d-979d-4cec621b31dd",
+        "name": "Coriander",
+        "quantity": 62,
+        "unit": "g"
+      },
+      {
+        "id": "50fdda27-1d91-486f-b040-846ee0c9376e",
+        "name": "Paneer",
+        "quantity": 199,
+        "unit": "g"
+      },
+      {
+        "id": "d400be02-41e2-474d-b173-0de606e88717",
+        "name": "Egg",
+        "quantity": 122,
+        "unit": "pcs"
+      }
+    ],
+    "steps": [
+      {
+        "id": "ae2bdc02-edb0-4221-b1d7-9a71eca57716",
+        "description": "Prepare ingredients step 1 for mutton rogan josh.",
+        "type": "instruction",
+        "durationMinutes": 6,
+        "ingredientIds": [
+          "d400be02-41e2-474d-b173-0de606e88717",
+          "012258ee-14f5-4d0f-89e3-ef7c7b5875a3"
+        ]
+      },
+      {
+        "id": "a541fbea-fc0d-4b77-91df-f19ff8e00395",
+        "description": "Cook step 2 for mutton rogan josh.",
+        "type": "cooking",
+        "durationMinutes": 6,
+        "cookingSettings": {
+          "temperature": 141,
+          "speed": 2
+        }
+      },
+      {
+        "id": "f57a144b-526a-4fe0-b8fb-5cef3a7d166d",
+        "description": "Prepare ingredients step 3 for mutton rogan josh.",
+        "type": "instruction",
+        "durationMinutes": 2,
+        "ingredientIds": [
+          "d400be02-41e2-474d-b173-0de606e88717",
+          "50fdda27-1d91-486f-b040-846ee0c9376e",
+          "b95a097b-a292-4589-ba2c-05dce37b81af"
+        ]
+      }
+    ],
+    "isFavorite": false,
+    "createdAt": "2025-10-30T11:53:26.489046",
+    "updatedAt": "2025-10-30T11:53:26.489048"
+  },
+  {
+    "id": "29bcf489-a202-484a-bec9-c5d5acc500df",
+    "title": "Margherita Pizza",
+    "difficulty": "Hard",
+    "ingredients": [
+      {
+        "id": "496fa751-5c92-4a23-99e3-3db0a948111e",
+        "name": "Coriander",
+        "quantity": 26,
+        "unit": "g"
+      },
+      {
+        "id": "caebf688-5397-4212-8b5d-dba73b3eec09",
+        "name": "Pepper",
+        "quantity": 65,
+        "unit": "g"
+      },
+      {
+        "id": "9c7d058d-c51a-4f13-82a4-436ab6e37a88",
+        "name": "Chicken",
+        "quantity": 10,
+        "unit": "g"
+      },
+      {
+        "id": "b3beb6b4-9423-43a2-9283-b931eb7e1a1b",
+        "name": "Paneer",
+        "quantity": 44,
+        "unit": "g"
+      },
+      {
+        "id": "d9ffc9bb-dae1-4a16-ad48-091ece459049",
+        "name": "Vegetables",
+        "quantity": 193,
+        "unit": "g"
+      },
+      {
+        "id": "fe0d9fcb-f4d6-4c8c-9976-9511495e49ae",
+        "name": "Oil",
+        "quantity": 106,
+        "unit": "ml"
+      },
+      {
+        "id": "2dc5ebce-7ad3-4104-a2b9-5f3d15bb21ee",
+        "name": "Spices",
+        "quantity": 38,
+        "unit": "g"
+      }
+    ],
+    "steps": [
+      {
+        "id": "63dc72fd-1ea8-4961-a37f-5db43b815eab",
+        "description": "Prepare ingredients step 1 for margherita pizza.",
+        "type": "instruction",
+        "durationMinutes": 5,
+        "ingredientIds": [
+          "9c7d058d-c51a-4f13-82a4-436ab6e37a88"
+        ]
+      },
+      {
+        "id": "975a6d50-6247-477f-8249-a04d2990849b",
+        "description": "Cook step 2 for margherita pizza.",
+        "type": "cooking",
+        "durationMinutes": 9,
+        "cookingSettings": {
+          "temperature": 172,
+          "speed": 4
+        }
+      },
+      {
+        "id": "685c8498-4f5e-481e-a3c3-968453bd55ee",
+        "description": "Prepare ingredients step 3 for margherita pizza.",
+        "type": "instruction",
+        "durationMinutes": 4,
+        "ingredientIds": [
+          "caebf688-5397-4212-8b5d-dba73b3eec09",
+          "2dc5ebce-7ad3-4104-a2b9-5f3d15bb21ee",
+          "caebf688-5397-4212-8b5d-dba73b3eec09"
+        ]
+      },
+      {
+        "id": "c8592966-a714-4c9a-a514-8b8544cb9d5c",
+        "description": "Cook step 4 for margherita pizza.",
+        "type": "cooking",
+        "durationMinutes": 10,
+        "cookingSettings": {
+          "temperature": 169,
+          "speed": 4
+        }
+      },
+      {
+        "id": "59c734fe-3fe8-48ac-b848-3c077e12ce9a",
+        "description": "Prepare ingredients step 5 for margherita pizza.",
+        "type": "instruction",
+        "durationMinutes": 3,
+        "ingredientIds": [
+          "d9ffc9bb-dae1-4a16-ad48-091ece459049",
+          "2dc5ebce-7ad3-4104-a2b9-5f3d15bb21ee",
+          "d9ffc9bb-dae1-4a16-ad48-091ece459049"
+        ]
+      }
+    ],
+    "isFavorite": false,
+    "createdAt": "2025-10-30T11:53:26.489130",
+    "updatedAt": "2025-10-30T11:53:26.489133"
+  },
+  {
+    "id": "53117d66-ac86-4748-9262-663ef970f542",
+    "title": "Aloo Tikki",
+    "difficulty": "Medium",
+    "ingredients": [
+      {
+        "id": "df4df996-a568-4814-9a96-d5f9cb17a596",
+        "name": "Flour",
+        "quantity": 128,
+        "unit": "g"
+      },
+      {
+        "id": "ae9d598e-9702-4737-bb3e-73c7c0437c21",
+        "name": "Chili",
+        "quantity": 193,
+        "unit": "pcs"
+      },
+      {
+        "id": "ec2ce905-0168-47e3-b0e9-2c0c9522da42",
+        "name": "Salt",
+        "quantity": 138,
+        "unit": "g"
+      },
+      {
+        "id": "94877c04-2d3e-4fb4-b546-0c13039a064b",
+        "name": "Milk",
+        "quantity": 47,
+        "unit": "ml"
+      },
+      {
+        "id": "c0f0b247-f029-4484-8869-7c74879ff1a9",
+        "name": "Onion",
+        "quantity": 17,
+        "unit": "g"
+      },
+      {
+        "id": "1c162410-aca2-4478-b156-a3603673360a",
+        "name": "Cheese",
+        "quantity": 104,
+        "unit": "g"
+      },
+      {
+        "id": "c93298e5-a3e2-4346-b136-7ef96a422b5f",
+        "name": "Egg",
+        "quantity": 98,
+        "unit": "pcs"
+      }
+    ],
+    "steps": [
+      {
+        "id": "ab9ec68e-f7eb-4f83-9b23-6f0237797a53",
+        "description": "Prepare ingredients step 1 for aloo tikki.",
+        "type": "instruction",
+        "durationMinutes": 2,
+        "ingredientIds": [
+          "c93298e5-a3e2-4346-b136-7ef96a422b5f"
+        ]
+      },
+      {
+        "id": "743d075c-280b-47b2-b296-e71b61a5ae62",
+        "description": "Cook step 2 for aloo tikki.",
+        "type": "cooking",
+        "durationMinutes": 6,
+        "cookingSettings": {
+          "temperature": 180,
+          "speed": 4
+        }
+      },
+      {
+        "id": "73ea0738-11bd-4e10-b904-17214e2d82a0",
+        "description": "Prepare ingredients step 3 for aloo tikki.",
+        "type": "instruction",
+        "durationMinutes": 3,
+        "ingredientIds": [
+          "c93298e5-a3e2-4346-b136-7ef96a422b5f"
+        ]
+      }
+    ],
+    "isFavorite": true,
+    "createdAt": "2025-10-30T11:53:26.489209",
+    "updatedAt": "2025-10-30T11:53:26.489212"
+  },
+  {
+    "id": "de05c246-4593-4862-a62a-fc83c79f0ca2",
+    "title": "Pulao",
+    "difficulty": "Hard",
+    "ingredients": [
+      {
+        "id": "4d793ce9-19a8-4937-9452-0e203fdc3ea7",
+        "name": "Ginger",
+        "quantity": 79,
+        "unit": "g"
+      },
+      {
+        "id": "423c0bd2-83d8-45c4-8d1a-16a76450febd",
+        "name": "Milk",
+        "quantity": 31,
+        "unit": "ml"
+      },
+      {
+        "id": "41eff802-0a81-4c0e-87ae-2ece8a45cee4",
+        "name": "Rice",
+        "quantity": 162,
+        "unit": "g"
+      },
+      {
+        "id": "59077c72-3952-4309-a2e7-9a8ed3243434",
+        "name": "Salt",
+        "quantity": 154,
+        "unit": "g"
+      },
+      {
+        "id": "7aabf834-170d-451d-b808-4574e3357f65",
+        "name": "Garlic",
+        "quantity": 20,
+        "unit": "g"
+      }
+    ],
+    "steps": [
+      {
+        "id": "3c0c28d5-86d3-498a-a62e-c63a525d7ee3",
+        "description": "Prepare ingredients step 1 for pulao.",
+        "type": "instruction",
+        "durationMinutes": 5,
+        "ingredientIds": [
+          "423c0bd2-83d8-45c4-8d1a-16a76450febd",
+          "7aabf834-170d-451d-b808-4574e3357f65"
+        ]
+      },
+      {
+        "id": "6897182c-8b5f-4160-8f07-781e7d581e71",
+        "description": "Cook step 2 for pulao.",
+        "type": "cooking",
+        "durationMinutes": 4,
+        "cookingSettings": {
+          "temperature": 177,
+          "speed": 1
+        }
+      },
+      {
+        "id": "a23f7ecc-062e-4147-972b-61fa02834ada",
+        "description": "Prepare ingredients step 3 for pulao.",
+        "type": "instruction",
+        "durationMinutes": 3,
+        "ingredientIds": [
+          "423c0bd2-83d8-45c4-8d1a-16a76450febd"
+        ]
+      }
+    ],
+    "isFavorite": false,
+    "createdAt": "2025-10-30T11:53:26.489274",
+    "updatedAt": "2025-10-30T11:53:26.489277"
+  }
+]
